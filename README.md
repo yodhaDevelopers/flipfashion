@@ -16,6 +16,10 @@ Selecting outfits for events has been a forever tedious task for all and this ai
 
 ## How to run this project:
 
+### Software Requirements
+- RASA only works Python 3.7+
+- If it doesnt work in normal terminals try using an conda environment
+
 ### Hardware Requirements (Local)
 
 - CPU: Any new chip with +2.0 GHz of computing capability
@@ -46,6 +50,7 @@ I will be explaining how to run on colab + local system:
 - You also need to run server for rasa, you can do that by simply doing cd into rasa_fashion_model and running the command ```rasa run --enable-api -m rasa run --enable-api -m 20230820-145032-crabby-quiver.tar.gz ```
 
 - Now run the two flask server for starting Dialo GPT and rasa so interact with it ```python rasa.py``` && ```python chat.py``` after running it you can simply start using the efficient model of flipsmart. 
+
 
 
 # Have fun generating endless outfits!!!
