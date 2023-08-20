@@ -1,0 +1,1442 @@
+{
+    "recommendations": [{
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "top-wear:fit solid white t-shirt,bottom-wear:Relaxed fit dark jeans,footwear:high ankle sneakers,accessories:none,response:You can style your outfit with a fit solid white t-shirt paired with relaxed fit dark jeans. High ankle black sneakers complete the look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:formal,body-size:slim",
+            "completion": "top-wear:Elegant navy blue dress,bottom-wear:None,footwear:Classic black heels,accessories:Statement necklace,response:For a formal occasion, an elegant navy blue dress works wonders. Pair it with classic black heels and a statement necklace to complete the look."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:curvy",
+            "completion": "top-wear:Sparkly sequin crop top,bottom-wear:High-waisted black skirt,footwear:Strappy heels,accessories:Chandelier earrings,response:For a party, try a sparkly sequin crop top with a high-waisted black skirt. Complete the look with strappy heels and chandelier earrings."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:smart-casual,body-size:athletic",
+            "completion": "top-wear:Tailored blazer,bottom-wear:Dark slim-fit chinos,footwear:Classic brown leather shoes,accessories:Leather belt,response:Opt for a smart-casual look with a tailored blazer, dark slim-fit chinos, classic brown leather shoes, and a matching leather belt."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "top-wear:fit solid white tshirt,bottom-wear:Relaxed fit dark jeans, footwear:high ankle sneakers, accessories:none, response:You can style your outfit with a fit solid white tshirt with a relaxed fit dark colored jeans. You can wear high ankle sneaker black sneakers to go with it as well. "
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:business-casual,body-size:slim",
+            "completion": "top-wear:Button-down white blouse,bottom-wear:Tapered black trousers,footwear:Pointed-toe flats,accessories:Pearl earrings,response:For a business-casual look, wear a white button-down blouse with tapered black trousers. Pair with comfortable pointed-toe flats and elegant pearl earrings."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:sporty,body-size:fit",
+            "completion": "top-wear:Moisture-wicking performance tee,bottom-wear:Quick-dry athletic shorts,footwear:Running sneakers,accessories:Sports watch,response:For a sporty look, wear a moisture-wicking performance tee with quick-dry athletic shorts. Lace up your running sneakers and add a sports watch for functionality."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:beach,body-size:curvy",
+            "completion": "top-wear:Flowy floral tank top,bottom-wear:High-waisted bikini bottoms,footwear:Beach sandals,accessories:Wide-brim sun hat,response:For a beach day, go with a flowy floral tank top and high-waisted bikini bottoms. Slip on comfortable beach sandals and don't forget to wear a wide-brim sun hat."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:school,body-size:fit",
+            "completion": "top-wear:Cropped graphic tee,bottom-wear:High-waisted distressed jeans,footwear:White sneakers,accessories:Backpack,response:Get ready for school with a cropped graphic tee and high-waisted distressed jeans. Classic white sneakers and a backpack complete the stylish and comfortable look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:night-out,body-size:athletic",
+            "completion": "top-wear:Classic black slim-fit shirt,bottom-wear:Tapered dark jeans,footwear:Leather boots,accessories:Wristwatch,response:For a night out, wear a classic black slim-fit shirt with tapered dark jeans. Elevate the look with stylish leather boots and a wristwatch."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:athletic,body-size:fit",
+            "completion": "top-wear:Breathable sports tank top,bottom-wear:Moisture-wicking leggings,footwear:Running shoes,accessories:Sports water bottle,response:Stay active in a breathable sports tank top and moisture-wicking leggings. Lace up your running shoes and keep hydrated with a sports water bottle."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:date-night,body-size:slim",
+            "completion": "top-wear:Crisp white dress shirt,bottom-wear:Navy slim-fit suit,footwear:Polished brown dress shoes,accessories:Silk tie,response:Impress on a date night with a crisp white dress shirt and a navy slim-fit suit. Polish the look with brown dress shoes and a stylish silk tie."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:music-festival,body-size:fit",
+            "completion": "top-wear:Boho off-shoulder crop top,bottom-wear:High-waisted denim shorts,footwear:Fringe ankle boots,accessories:Floppy sun hat,response:Get festival-ready in a boho off-shoulder crop top and high-waisted denim shorts. Complete the look with trendy fringe ankle boots and a floppy sun hat."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:athletic",
+            "completion": "top-wear:Classic crew-neck t-shirt,bottom-wear:Comfortable jogger pants,footwear:Casual sneakers,accessories:Baseball cap,response:Stay comfortable in a classic crew-neck t-shirt paired with comfortable jogger pants. Complete the casual look with stylish casual sneakers and a baseball cap."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,body-size:slim",
+            "completion": "top-wear:Elegant sleeveless A-line dress,bottom-wear:None,footwear:Strappy high heels,accessories:Chandelier earrings,response:Dazzle at a wedding in an elegant sleeveless A-line dress. Pair with strappy high heels and chandelier earrings for a sophisticated look."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:Diwali,body-size:fit",
+            "completion": "top-wear:Embroidered kurta,bottom-wear:Churidar,footwear:Juttis,accessories:Ethnic stole,response:For Diwali, opt for an embroidered kurta paired with churidar bottoms. Complete the traditional look with classic juttis and an ethnic stole."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:Holi,body-size:fit",
+            "completion": "top-wear:Bright printed t-shirt,bottom-wear:Casual shorts,footwear:Canvas sneakers,accessories:Colorful sunglasses,response:Celebrate Holi in a bright printed t-shirt and comfortable casual shorts. Don't forget to wear canvas sneakers and stylish colorful sunglasses."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:Ganesh Chaturthi,body-size:fit",
+            "completion": "top-wear:Simple cotton shirt,bottom-wear:White dhoti,footwear:Traditional sandals,accessories:Ganpati locket,response:For Ganesh Chaturthi, go for a simple cotton shirt paired with a white dhoti. Traditional sandals and a Ganpati locket complete the modest look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:Navaratri,body-size:fit",
+            "completion": "top-wear:Richly colored bandhgala,bottom-wear:Churidar,footwear:Mojari shoes,accessories:Turban,response:Dress up for Navaratri in a richly colored bandhgala paired with churidar bottoms. Complete the dressy look with stylish mojari shoes and a traditional turban."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:Raksha Bandhan,body-size:fit",
+            "completion": "top-wear:Tailored pastel shirt,bottom-wear:Dark jeans,footwear:Loafers,accessories:Wristwatch,response:For Raksha Bandhan, choose a tailored pastel shirt with dark jeans for a smart-casual look. Add loafers and a wristwatch for an elegant touch."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:Onam,body-size:fit",
+            "completion": "top-wear:White kurta with golden border,bottom-wear:White mundu,footwear:Traditional mojari sandals,accessories:Golden wrist bangle,response:Celebrate Onam in a white kurta with a golden border paired with a white mundu. Traditional mojari sandals and a golden wrist bangle complete the look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:Durga Puja,body-size:fit",
+            "completion": "top-wear:Silk kurta,bottom-wear:Dhoti,footwear:Traditional juttis,accessories:Red tilak,response:Dress up in a silk kurta and dhoti for Durga Puja. Complete the ethnic look with traditional juttis and a red tilak."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:Gudi Padwa,body-size:fit",
+            "completion": "top-wear:Classic Maharashtrian kurta,bottom-wear:Dhotar,footwear:Traditional Kolhapuri chappals,accessories:Marathi pheta,response:For Gudi Padwa, opt for a classic Maharashtrian kurta with a dhotar. Complete the traditional look with authentic Kolhapuri chappals and a Marathi pheta."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:Eid,body-size:fit",
+            "completion": "top-wear:Formal Eid kurta,bottom-wear:Pajama,footwear:Leather formal shoes,accessories:Wristwatch,response:Look sharp in a formal Eid kurta paired with pajama bottoms. Complete the formal look with leather shoes and a stylish wristwatch."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:Pongal,body-size:fit",
+            "completion": "top-wear:Simple cotton shirt,bottom-wear:Casual trousers,footwear:Comfortable flip-flops,accessories:Straw hat,response:Enjoy Pongal in a simple cotton shirt with comfortable casual trousers. Pair with easygoing flip-flops and a straw hat for a relaxed vibe."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:Diwali,body-size:fit",
+            "completion": "top-wear:Traditional embroidered saree,bottom-wear:Matching blouse,footwear:Ethnic heels,accessories:Statement earrings,response:For Diwali, grace the occasion in a traditional embroidered saree with a matching blouse. Elevate the look with ethnic heels and statement earrings."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:Holi,body-size:fit",
+            "completion": "top-wear:Vibrant salwar kameez,bottom-wear:Churidar,footwear:Colorful juttis,accessories:Bangles and bindi,response:Celebrate Holi in a vibrant salwar kameez paired with churidar bottoms. Complete the look with colorful juttis, bangles, and a bindi."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:Ganesh Chaturthi,body-size:fit",
+            "completion": "top-wear:Simple cotton kurta,bottom-wear:Long ethnic skirt,footwear:Traditional mojari sandals,accessories:Ganpati pendant,response:For Ganesh Chaturthi, go for a simple cotton kurta paired with a long ethnic skirt. Traditional mojari sandals and a Ganpati pendant complete the modest look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:Navaratri,body-size:fit",
+            "completion": "top-wear:Colorful lehenga choli,bottom-wear:Matching dupatta,footwear:Embroidered juttis,accessories:Floral hair garland,response:Dance the night away during Navaratri in a colorful lehenga choli with a matching dupatta. Complete the festive look with embroidered juttis and a floral hair garland."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:Raksha Bandhan,body-size:fit",
+            "completion": "top-wear:Anarkali-style kurta,bottom-wear:Flared palazzo pants,footwear:Traditional jhumkas,accessories:Bangles,response:For Raksha Bandhan, choose an Anarkali-style kurta paired with flared palazzo pants for an elegant yet comfortable look. Add traditional jhumkas and bangles to complete the ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:Onam,body-size:fit",
+            "completion": "top-wear:Kerala-style kasavu saree,bottom-wear:Matching blouse,footwear:Gold sandals,accessories:Floral hair ornament,response:Celebrate Onam in a Kerala-style kasavu saree with a matching blouse. Gold sandals and a floral hair ornament complete the traditional Kerala look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:Durga Puja,body-size:fit",
+            "completion": "top-wear:Silk saree,bottom-wear:Matching blouse,footwear:Traditional Bengali slippers,accessories:Red sindoor,response:Dress up in a silk saree with a matching blouse for Durga Puja. Complete the ethnic look with traditional Bengali slippers and red sindoor."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:Gudi Padwa,body-size:fit",
+            "completion": "top-wear:Maharashtrian nauvari saree,bottom-wear:Matching choli,footwear:Traditional Kolhapuri chappals,accessories:Nath and bindi,response:For Gudi Padwa, opt for a traditional Maharashtrian nauvari saree with a matching choli. Complete the look with authentic Kolhapuri chappals, a nath, and a bindi."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:Eid,body-size:fit",
+            "completion": "top-wear:Elegant Eid anarkali suit,bottom-wear:Matching churidar,footwear:Embroidered mojari shoes,accessories:Jhumkas and henna,response:Look elegant in an Eid anarkali suit paired with a matching churidar. Complete the festive look with beautifully embroidered mojari shoes, jhumkas, and henna designs."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:Pongal,body-size:fit",
+            "completion": "top-wear:Traditional South Indian silk saree,bottom-wear:Matching blouse,footwear:Kolhapuri sandals,accessories:Floral hair accessory,response:Celebrate Pongal in a traditional South Indian silk saree with a matching blouse. Complete the festive look with Kolhapuri sandals and a floral hair accessory."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Classic Sherwani in rich gold,footwear:Traditional mojari,accessories:Turban with kalgi,response:For a grand Indian wedding, choose a classic Sherwani in rich gold. Pair it with traditional mojari shoes and a turban adorned with a kalgi for an elegant and regal look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Regal Bandhgala with embroidered details,footwear:Leather jutti shoes,accessories:Statement brooch,response:Make a statement with a regal Bandhgala featuring intricate embroidery. Complete the look with leather jutti shoes and a stylish statement brooch for a modern touch."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Exquisite Jodhpuri suit in royal blue,footwear:Embellished jutti shoes,accessories:Silk pocket square,response:Opt for an exquisite Jodhpuri suit in royal blue for a sophisticated look. Complete the ensemble with embellished jutti shoes and a luxurious silk pocket square."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Traditional Kurta Pajama with intricate work,footwear:Traditional Punjabi jutti,accessories:Traditional pagdi,response:Choose a traditional Kurta Pajama with intricate work for a timeless appeal. Pair it with comfortable Punjabi jutti shoes and a traditional pagdi for an authentic Indian wedding outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Modern Indo-Western outfit with Nehru jacket,footwear:Leather loafers,accessories:Stylish lapel pin,response:Go for a modern Indo-Western outfit featuring a Nehru jacket for a fusion of traditional and contemporary style. Complete the look with leather loafers and a stylish lapel pin."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Opulent Achkan with intricate brocade,footwear:Embroidered mojari shoes,accessories:Jeweled turban safa,response:Make a grand entrance in an opulent Achkan with intricate brocade details. Pair it with embroidered mojari shoes and a jeweled turban safa for a luxurious and royal appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Classic three-piece suit in charcoal gray,footwear:Polished leather oxford shoes,accessories:Silk tie and pocket square,response:For a formal touch, choose a classic three-piece suit in charcoal gray. Complete the look with polished leather oxford shoes and a silk tie and pocket square for a sophisticated appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Royal velvet Bandi jacket with brooch,footwear:Traditional Kolhapuri chappals,accessories:Silk safa turban,response:Opt for a royal velvet Bandi jacket with a brooch for a rich and distinctive look. Pair it with traditional Kolhapuri chappals and a silk safa turban for an elegant touch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Stylish embroidered Kurta with churidar,footwear:Modern leather mojari shoes,accessories:Statement wristwatch,response:Choose a stylish embroidered Kurta paired with churidar bottoms for a contemporary ethnic look. Complete the ensemble with modern leather mojari shoes and a statement wristwatch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,body-size:fit",
+            "completion": "outfit:Classic beige Bandhgala suit,footwear:Leather monk strap shoes,accessories:Polished lapel pin,response:For a timeless and sophisticated look, opt for a classic beige Bandhgala suit. Complete the ensemble with leather monk strap shoes and a polished lapel pin for a refined appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Elegant Lehenga Choli with intricate embroidery,footwear:Stylish high heels,accessories:Statement chandelier earrings,response:Grace the wedding in an elegant Lehenga Choli with intricate embroidery. Complete the look with stylish high heels and statement chandelier earrings for a glamorous appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Traditional Kanjivaram silk saree,footwear:Classic juttis,accessories:Gold bangles and necklace,response:Opt for a traditional Kanjivaram silk saree for a timeless and regal look. Pair it with classic juttis, gold bangles, and a necklace for an authentic Indian wedding ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Exquisite Anarkali gown with rich embellishments,footwear:Stiletto heels,accessories:Maang tikka and jhumkas,response:Choose an exquisite Anarkali gown with rich embellishments for a stunning appearance. Complete the look with stiletto heels, a maang tikka, and jhumkas for a touch of elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Contemporary Indo-Western outfit with drape,footwear:Modern ankle-strap sandals,accessories:Statement clutch and cuff bracelet,response:For a modern twist, go for a contemporary Indo-Western outfit with a unique drape. Complete the ensemble with modern ankle-strap sandals, a statement clutch, and a cuff bracelet."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Opulent heavy-worked Sharara set,footwear:Embellished mojari shoes,accessories:Choker necklace and maang tikka,response:Make a grand statement in an opulent heavy-worked Sharara set. Pair it with embellished mojari shoes, a choker necklace, and a maang tikka for a luxurious look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Glamorous designer saree with sequins,footwear:Stylish stiletto heels,accessories:Sparkling chandelier earrings,response:Shine in a glamorous designer saree adorned with sequins. Complete the look with stylish stiletto heels and sparkling chandelier earrings for a dazzling appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Royal velvet Angrakha dress with golden accents,footwear:Traditional embroidered juttis,accessories:Stylish maang tikka,response:Opt for a royal velvet Angrakha dress with golden accents for a rich and distinctive look. Pair it with traditional embroidered juttis and a stylish maang tikka."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Stunning contemporary gown with cape,footwear:Strappy high heels,accessories:Modern statement necklace,response:Choose a stunning contemporary gown with a cape for a fashionable and dramatic appearance. Complete the look with strappy high heels and a modern statement necklace."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Traditional Banarasi silk lehenga,footwear:Classic Punjabi juttis,accessories:Polki necklace and maang tikka,response:Embrace tradition with a Banarasi silk lehenga. Pair it with classic Punjabi juttis, a Polki necklace, and a maang tikka for a timeless Indian wedding look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:wedding,body-size:fit",
+            "completion": "outfit:Regal velvet sharara suit,footwear:Embellished mojari shoes,accessories:Stylish matha patti,response:Make a regal statement in a velvet sharara suit. Pair it with embellished mojari shoes and a stylish matha patti for a luxurious and elegant appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Stylish kurta-shirt fusion, comfortable jeans,footwear:Classic white sneakers,accessories:Wooden beaded bracelet,response:For a casual day, go for a stylish kurta-shirt fusion with comfortable jeans. Complete the look with classic white sneakers and a wooden beaded bracelet."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Graphic print tee, slim-fit trousers,footwear:Casual loafers,accessories:Sunglasses, a leather wristband,response:Embrace urban vibes with a graphic print tee and slim-fit trousers. Complete the look with casual loafers, sunglasses, and a leather wristband."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Vintage-style printed shirt, chinos,footwear:Canvas shoes or espadrilles,accessories:Retro round-frame sunglasses,response:Get a retro-inspired look with a vintage-style printed shirt and chinos. Complete the outfit with canvas shoes or espadrilles and retro round-frame sunglasses."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Denim shirt, comfortable kurta pajama,footwear:Casual slip-on shoes,accessories:Leather belt,response:Combine denim and ethnic with a comfortable kurta pajama and a denim shirt. Complete the look with casual slip-on shoes and a leather belt."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Basic tee, lightweight open shirt, shorts,footwear:Sporty sneakers,accessories:Baseball cap,response:Try trendy layering with a basic tee, lightweight open shirt, and shorts. Complete the look with sporty sneakers and a baseball cap."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Monochrome polo shirt, casual trousers,footwear:Suede desert boots,accessories:Classic watch,response:Embrace the monochrome charm with a monochrome polo shirt and casual trousers. Complete the look with suede desert boots and a classic watch."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Printed half-sleeve shirt, relaxed-fit jeans,footwear:Sandals with ethnic embroidery,accessories:Beaded necklace,response:Embrace a bohemian-inspired look with a printed half-sleeve shirt and relaxed-fit jeans. Complete the look with sandals featuring ethnic embroidery and a beaded necklace."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Nehru jacket over a plain tee, jeans,footwear:Comfortable loafers,accessories:Wristwatch,response:Try a casual Indo-Western style with a Nehru jacket layered over a plain tee and jeans. Complete the look with comfortable loafers and a wristwatch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Urban graphic tee, jogger pants,footwear:Stylish high-top sneakers,accessories:Baseball cap,response:Embrace urban fashion with an urban graphic tee and comfortable jogger pants. Complete the look with stylish high-top sneakers and a baseball cap."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Polo shirt, slim-fit chinos,footwear:White sneakers,accessories:Simple leather belt,response:Choose a classic casual look with a polo shirt and slim-fit chinos. Complete the outfit with white sneakers and a simple leather belt."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Retro-inspired printed dress,footwear:Vintage-style Mary Jane shoes,accessories:Retro round-frame sunglasses,response:Get a retro-inspired look with a printed dress and vintage-style Mary Jane shoes. Complete the look with retro round-frame sunglasses."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Denim jacket, graphic tee, leggings,footwear:Casual sneakers,accessories:Layered pendant necklace,response:Create a casual and stylish outfit with a denim jacket, graphic tee, and leggings. Complete the look with casual sneakers and a layered pendant necklace."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Modern ethnic fusion: Crop top, flared skirt,footwear:Boho-inspired sandals,accessories:Tassel earrings,response:Embrace a modern ethnic fusion look with a crop top and flared skirt. Complete the look with boho-inspired sandals and tassel earrings."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Casual denim jumpsuit,footwear:Slip-on sneakers,accessories:Canvas tote bag,response:Opt for a comfortable denim jumpsuit for a casual day. Complete the look with slip-on sneakers and a canvas tote bag."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Printed midi dress,footwear:Espadrille wedges,accessories:Statement bangle,response:Choose a printed midi dress for a feminine touch. Complete the look with espadrille wedges and a statement bangle."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Bohemian-inspired tunic top, distressed jeans,footwear:Boho sandals,accessories:Fringed crossbody bag,response:Embrace bohemian vibes with a bohemian-inspired tunic top and distressed jeans. Complete the look with boho sandals and a fringed crossbody bag."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Striped off-shoulder top, high-waisted shorts,footwear:Casual espadrilles,accessories:Wide-brimmed hat,response:Get a coastal-inspired look with a striped off-shoulder top and high-waisted shorts. Complete the look with casual espadrilles and a wide-brimmed hat."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Casual jumpsuit with tie waist,footwear:Slide sandals,accessories:Layered delicate necklace,response:Opt for a casual jumpsuit with a tie waist for an effortless look. Complete the look with slide sandals and a layered delicate necklace."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Printed kimono-style top, skinny jeans,footwear:Stylish ankle boots,accessories:Tassel earrings,response:Try a printed kimono-style top paired with skinny jeans for a trendy look. Complete the outfit with stylish ankle boots and tassel earrings."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Boho-inspired maxi skirt, plain tee,footwear:Flat strappy sandals,accessories:Layered boho necklaces,response:Embrace a boho-inspired look with a maxi skirt and a plain tee. Complete the look with flat strappy sandals and layered boho necklaces."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Casual kurti with jeans,footwear:Vibrant ethnic flats or juttis,accessories:Hoop earrings,response:For a casual day, go for a comfortable kurti paired with jeans. Complete the look with vibrant ethnic flats or juttis and hoop earrings."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Floral print blouse, skinny jeans,footwear:Classic ballet flats,accessories:Layered necklace,response:Embrace a floral and denim combination with a floral print blouse and skinny jeans. Complete the look with classic ballet flats and a layered necklace."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Bohemian maxi dress, denim jacket,footwear:Ankle boots,accessories:Oversized sunglasses,response:Try a chic boho look with a bohemian maxi dress and a denim jacket. Complete the look with ankle boots and oversized sunglasses."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Basic tee, palazzo pants,footwear:Comfortable slip-on sandals,accessories:Woven tote bag,response:Opt for a comfortable fusion look with a basic tee and palazzo pants. Complete the look with comfortable slip-on sandals and a woven tote bag."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Cold-shoulder top, dhoti-style pants,footwear:Stylish sandals,accessories:Statement bangle,response:Choose a modern Indian casual look with a cold-shoulder top and dhoti-style pants. Complete the look with stylish sandals and a statement bangle."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Formal tailored shirt, classic trousers,footwear:Leather oxford shoes,accessories:Wristwatch, professional belt,response:For a professional office look, wear a formal tailored shirt with classic trousers. Complete the look with leather oxford shoes, a wristwatch, and a professional belt."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Traditional Indian Kurta Pajama,footwear:Classic mojaris,accessories:Simple metal cufflinks,response:Embrace a traditional touch with a comfortable Indian Kurta Pajama. Complete the look with classic mojaris and simple metal cufflinks, perfect for an formal setting."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Business casual blazer, well-fitted chinos,footwear:Smart brogues,accessories:Professional tie, leather wallet,response:Opt for a business casual blazer paired with well-fitted chinos. Complete the look with smart brogues, a professional tie, and a leather wallet."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Classic white shirt, modern slim-fit trousers,footwear:Minimalist derby shoes,accessories:Professional wristwatch,response:Choose a classic white shirt with modern slim-fit trousers for a timeless office look. Complete the outfit with minimalist derby shoes and a professional wristwatch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Smart casual blazer, well-fitted jeans,footwear:Stylish loafers,accessories:Professional leather belt,response:Achieve a smart casual look with a blazer and well-fitted jeans. Complete the outfit with stylish loafers and a professional leather belt."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Classic formal suit, crisp dress shirt,footwear:Polished black dress shoes,accessories:Tie clip, elegant tie,response:For a formal office setting, wear a classic formal suit with a crisp dress shirt. Complete the look with polished black dress shoes, a tie clip, and an elegant tie."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Modern Nehru jacket over shirt, tailored trousers,footwear:Contemporary lace-up shoes,accessories:Minimalist pocket square,response:Try a modern twist with a Nehru jacket layered over a shirt and tailored trousers. Complete the look with contemporary lace-up shoes and a minimalist pocket square."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Casual blazer, dressy cotton pants,footwear:Comfortable suede loafers,accessories:Professional leather messenger bag,response:Go for a slightly casual yet professional look with a blazer and dressy cotton pants. Complete the outfit with comfortable suede loafers and a professional leather messenger bag."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Checked dress shirt, dress slacks,footwear:Classic leather loafers,accessories:Professional tie, wristwatch,response:Choose a stylish checked dress shirt with dress slacks for a versatile office look. Complete the outfit with classic leather loafers, a professional tie, and a wristwatch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Modern ethnic blend: Collared kurta with tailored trousers,footwear:Leather juttis,accessories:Professional watch, pocket square,response:Infuse modern ethnic elements with a collared kurta paired with tailored trousers. Complete the look with leather juttis, a professional watch, and a pocket square."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Formal blouse, pencil skirt,footwear:Classic pointed-toe heels,accessories:Pearl necklace, professional handbag,response:Dress professionally with a formal blouse and a pencil skirt. Complete the look with classic pointed-toe heels, a pearl necklace, and a professional handbag."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Traditional Indian Kurti with leggings,footwear:Comfortable ethnic flats,accessories:Simple stud earrings,response:Embrace comfort and style with a traditional Indian Kurti paired with leggings. Complete the look with comfortable ethnic flats and simple stud earrings, suitable for the office."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Business formal blazer, tailored trousers,footwear:Elegant low-heeled pumps,accessories:Professional watch, statement necklace,response:Opt for a business formal blazer with tailored trousers. Complete the look with elegant low-heeled pumps, a professional watch, and a statement necklace."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Classic white shirt, slim-fit pants,footwear:Versatile block heels,accessories:Professional wristwatch,response:Choose a classic white shirt with slim-fit pants for a timeless office look. Complete the outfit with versatile block heels and a professional wristwatch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Smart casual blazer, well-fitted jeans,footwear:Stylish loafers,accessories:Professional leather belt,response:Achieve a smart casual look with a blazer and well-fitted jeans. Complete the look with stylish loafers and a professional leather belt."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Classic formal suit, crisp blouse,footwear:Elegant closed-toe pumps,accessories:Statement necklace, professional tote bag,response:For a formal formal setting, wear a classic formal suit with a crisp blouse. Complete the look with elegant closed-toe pumps, a statement necklace, and a professional tote bag."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Modern Indian Fusion: Collared kurta with tailored trousers,footwear:Comfortable ethnic flats,accessories:Professional wristwatch, small stud earrings,response:Infuse modern Indian elements with a collared kurta paired with tailored trousers. Complete the look with comfortable ethnic flats, a professional wristwatch, and small stud earrings."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Formal blazer dress,footwear:Low-heeled mules,accessories:Professional handbag, statement earrings,response:Opt for a formal blazer dress for a sophisticated look. Complete the outfit with low-heeled mules, a professional handbag, and statement earrings."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Tailored pantsuit, classic blouse,footwear:Elegant pointed-toe flats,accessories:Professional wristwatch, minimal pendant necklace,response:Choose a tailored pantsuit with a classic blouse for a powerful office look. Complete the outfit with elegant pointed-toe flats, a professional wristwatch, and a minimal pendant necklace."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Modern ethnic blend: Collared kurta with formal trousers,footwear:Stylish kitten heels,accessories:Professional watch, small hoop earrings,response:Infuse modern ethnic elements with a collared kurta paired with formal trousers. Complete the look with stylish kitten heels, a professional watch, and small hoop earrings."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized graphic tee, relaxed-fit jeans,footwear:Chunky sneakers,accessories:Beanie hat,response:Embrace the oversized trend with an oversized graphic tee paired with relaxed-fit jeans. Complete the look with chunky sneakers and a beanie hat for a cool and comfortable outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized hoodie, jogger pants,footwear:High-top sneakers,accessories:Oversized watch,response:Stay cozy and stylish with an oversized hoodie and comfortable jogger pants. Complete the look with high-top sneakers and an oversized watch for a laid-back yet trendy outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized denim jacket, baggy cargo pants,footwear:Retro dad sneakers,accessories:Baseball cap,response:Get a retro-inspired look with an oversized denim jacket and baggy cargo pants. Complete the outfit with retro dad sneakers and a baseball cap for an effortlessly cool ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized plaid shirt, wide-leg jeans,footwear:Platform boots,accessories:Layered chains,response:Rock the oversized trend with a plaid shirt in an oversized fit and wide-leg jeans. Complete the look with platform boots and layered chains for a bold and edgy appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized crewneck sweatshirt, baggy jogger shorts,footwear:Slide sandals,accessories:Retro-inspired sunglasses,response:Stay comfortable and stylish with an oversized crewneck sweatshirt and baggy jogger shorts. Complete the look with slide sandals and retro-inspired sunglasses for a relaxed and trendy outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized longline t-shirt, loose-fit cargo pants,footwear:Chunky sneakers,accessories:Bucket hat,response:Channel the oversized trend with a longline t-shirt in an oversized fit and loose-fit cargo pants. Complete the look with chunky sneakers and a bucket hat for a street-style inspired outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized knit sweater, wide-leg trousers,footwear:Platform sneakers,accessories:Statement beaded necklace,response:Stay cozy and fashionable with an oversized knit sweater and wide-leg trousers. Complete the look with platform sneakers and a statement beaded necklace for a unique and comfortable outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized graphic hoodie, oversized jogger pants,footwear:Slip-on sneakers,accessories:Logo beanie hat,response:Embrace the oversized trend with a graphic hoodie and jogger pants in oversized fits. Complete the look with slip-on sneakers and a logo beanie hat for a modern and relaxed outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized button-down shirt, wide-legged jeans,footwear:Retro high-top sneakers,accessories:Vintage-inspired watch,response:Achieve a laid-back oversized look with a button-down shirt in an oversized fit and wide-legged jeans. Complete the outfit with retro high-top sneakers and a vintage-inspired watch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized hoodie, oversized sweatpants,footwear:Slide sandals,accessories:Bucket hat,response:Get a comfortable and trendy outfit with an oversized hoodie and oversized sweatpants. Complete the look with slide sandals and a bucket hat for a casual and relaxed appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized graphic tee, distressed mom jeans,footwear:Chunky platform sneakers,accessories:Beanie hat,response:Embrace the oversized trend with an oversized graphic tee paired with distressed mom jeans. Complete the look with chunky platform sneakers and a beanie hat for a stylish and comfortable outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized hoodie dress, thigh-high boots,accessories:Oversized hoop earrings,response:Stay cozy and fashionable with an oversized hoodie dress paired with thigh-high boots. Complete the look with oversized hoop earrings for a chic and trendy ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized denim jacket, baggy cargo pants,footwear:Retro dad sneakers,accessories:Bucket hat,response:Get a retro-inspired look with an oversized denim jacket and baggy cargo pants. Complete the outfit with retro dad sneakers and a bucket hat for an effortlessly cool appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized plaid shirt, wide-leg jeans,footwear:Platform boots,accessories:Layered chains,response:Rock the oversized trend with a plaid shirt in an oversized fit and wide-leg jeans. Complete the look with platform boots and layered chains for a bold and edgy appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized sweater, bike shorts,footwear:Chunky sneakers,accessories:Bucket hat,response:Stay comfortable and stylish with an oversized sweater paired with bike shorts. Complete the look with chunky sneakers and a bucket hat for a sporty and trendy outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized longline t-shirt, loose-fit cargo pants,footwear:Chunky platform sneakers,accessories:Statement beaded necklace,response:Channel the oversized trend with a longline t-shirt in an oversized fit and loose-fit cargo pants. Complete the look with chunky platform sneakers and a statement beaded necklace for a unique and comfortable outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized knit sweater, wide-leg trousers,footwear:Platform sneakers,accessories:Statement beaded necklace,response:Stay cozy and fashionable with an oversized knit sweater and wide-leg trousers. Complete the look with platform sneakers and a statement beaded necklace for a unique and comfortable outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized graphic hoodie, oversized jogger pants,footwear:Slip-on sneakers,accessories:Logo beanie hat,response:Embrace the oversized trend with a graphic hoodie and jogger pants in oversized fits. Complete the look with slip-on sneakers and a logo beanie hat for a modern and relaxed outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized button-down shirt, wide-legged jeans,footwear:Retro high-top sneakers,accessories:Vintage-inspired watch,response:Achieve a laid-back oversized look with a button-down shirt in an oversized fit and wide-legged jeans. Complete the outfit with retro high-top sneakers and a vintage-inspired watch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Oversized knit sweater, oversized sweatpants,footwear:Slide sandals,accessories:Bucket hat,response:Get a comfortable and trendy outfit with an oversized knit sweater and oversized sweatpants. Complete the look with slide sandals and a bucket hat for a casual and relaxed appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:oversized",
+            "completion": "outfit:Kurta with jeans,footwear:Traditional jutti,accessories:Bracelet,response:Go for a comfortable look with a stylish kurta paired with jeans. Complete the outfit with traditional jutti and a simple bracelet, capturing the essence of Indian tradition in a casual manner."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Classic Nehru jacket with chinos,footwear:Leather sandals,accessories:Pocket square,response:Opt for a timeless look with a Nehru jacket layered over chinos. Complete the outfit with comfortable leather sandals and a pocket square, showcasing Indian traditional elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Short kurta with cotton pants,footwear:Traditional mojari,accessories:Wooden bead necklace,response:Embrace a contemporary twist with a short kurta and comfortable cotton pants. Complete the look with traditional mojari and a wooden bead necklace, combining modern comfort with Indian elements."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:athletic",
+            "completion": "outfit:Linen shirt with dhoti-style pants,footwear:Stylish kolhapuri chappals,accessories:Wristwatch,response:Get a relaxed yet stylish look with a linen shirt and dhoti-style pants. Complete the outfit with fashionable kolhapuri chappals and a wristwatch, merging comfort and Indian charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:athletic",
+            "completion": "outfit:Printed kurta with denim shorts,footwear:Comfortable slip-on shoes,accessories:Turban or hat,response:Stay cool and casual with a printed kurta paired with denim shorts. Complete the look with comfortable slip-on shoes and add a turban or hat for a unique Indian touch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Casual bandhgala jacket with tailored trousers,footwear:Loafers or moccasins,accessories:Minimalist wristwatch,response:Achieve a relaxed yet sophisticated look with a casual bandhgala jacket and tailored trousers. Complete the outfit with loafers or moccasins and a minimalist wristwatch, reflecting Indian charm in a modern manner."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Classic white kurta with jeans,footwear:Modern sneakers,accessories:Stylish sunglasses,response:Go for a versatile look with a classic white kurta paired with jeans. Complete the outfit with modern sneakers and stylish sunglasses, combining comfort with contemporary Indian style."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Printed silk shirt with chinos,footwear:Comfortable loafers,accessories:Stylish belt,response:Get a stylish and comfortable look with a printed silk shirt and chinos. Complete the outfit with comfortable loafers and a stylish belt, embracing Indian tradition with a modern flair."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Kurta with casual jogger pants,footwear:Modern sneakers,accessories:Simple wristband,response:Combine casual comfort with Indian elegance by pairing a kurta with jogger pants. Complete the look with modern sneakers and a simple wristband, offering a laid-back yet traditional outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Handwoven cotton shirt with linen pants,footwear:Comfortable ethnic sandals,accessories:Brass bracelet,response:Embrace natural fabrics with a handwoven cotton shirt and linen pants. Complete the look with comfortable ethnic sandals and a brass bracelet, capturing the essence of Indian casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:oversized",
+            "completion": "outfit:Anarkali kurta with leggings,footwear:Traditional juttis,accessories:Statement earrings,response:Opt for a graceful look with an Anarkali kurta paired with leggings. Complete the outfit with traditional juttis and statement earrings, showcasing the elegance of Indian tradition in a casual manner."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Casual kurta with palazzo pants,footwear:Comfortable ethnic flats,accessories:Silver bangles,response:Get a comfortable and trendy look with a casual kurta and stylish palazzo pants. Complete the look with comfortable ethnic flats and silver bangles, embracing Indian elements with modern comfort."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Cotton kurti with straight-cut jeans,footwear:Stylish kolhapuri chappals,accessories:Long beaded necklace,response:Stay cool and casual with a cotton kurti paired with straight-cut jeans. Complete the look with stylish kolhapuri chappals and a long beaded necklace, merging comfort and Indian charm."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:athletic",
+            "completion": "outfit:Printed cotton dress with leggings,footwear:Ethnic-inspired sandals,accessories:Boho jhumkas,response:Achieve a relaxed yet stylish look with a printed cotton dress and comfortable leggings. Complete the outfit with ethnic-inspired sandals and boho jhumkas, reflecting Indian charm with a modern twist."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:athletic",
+            "completion": "outfit:Casual kurti with denim shorts,footwear:Comfortable slip-on shoes,accessories:Turban or scarf,response:Stay cool and trendy with a casual kurti paired with denim shorts. Complete the look with comfortable slip-on shoes and add a turban or scarf for a unique Indian touch."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Block-printed kurta with casual dhoti pants,footwear:Modern sneakers,accessories:Minimalist necklace,response:Combine casual comfort with Indian elegance by pairing a block-printed kurta with dhoti-style pants. Complete the look with modern sneakers and a minimalist necklace, offering a laid-back yet traditional outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Classic white kurta with denim skirt,footwear:Modern sandals,accessories:Stylish sunglasses,response:Go for a versatile look with a classic white kurta paired with a denim skirt. Complete the outfit with modern sandals and stylish sunglasses, combining comfort with contemporary Indian style."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Printed cotton top with wide-legged pants,footwear:Comfortable ethnic sandals,accessories:Stylish bracelet,response:Get a stylish and comfortable look with a printed cotton top and wide-legged pants. Complete the outfit with comfortable ethnic sandals and a stylish bracelet, embracing Indian tradition with a modern flair."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Casual kurta with culottes,footwear:Modern sneakers,accessories:Simple wristband,response:Combine casual comfort with Indian elegance by pairing a kurta with stylish culottes. Complete the look with modern sneakers and a simple wristband, offering a laid-back yet traditional outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Handwoven cotton saree with modern blouse,footwear:Comfortable ethnic flats,accessories:Silver anklets,response:Embrace the beauty of handwoven cotton sarees with a modern blouse. Complete the look with comfortable ethnic flats and silver anklets, capturing the essence of Indian casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:T-shirt with distressed jeans,footwear:White sneakers,accessories:Baseball cap,response:Get a cool street-style look with a comfortable T-shirt paired with distressed jeans. Complete the outfit with classic white sneakers and a stylish baseball cap for an effortless urban vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:athletic",
+            "completion": "outfit:Graphic hoodie with jogger pants,footwear:High-top sneakers,accessories:Chunky watch,response:Embrace the athleisure trend with a graphic hoodie and comfortable jogger pants. Complete the look with high-top sneakers and a chunky watch, perfect for a laid-back street-style statement."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Denim jacket with slim-fit chinos,footwear:Canvas sneakers,accessories:Retro sunglasses,response:Stay trendy with a denim jacket layered over slim-fit chinos. Complete the outfit with classic canvas sneakers and retro-style sunglasses for an effortlessly stylish street look."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Bomber jacket with ripped jeans,footwear:Combat boots,accessories:Leather wristband,response:Channel the edgy street-style vibe with a bomber jacket and ripped jeans. Complete the look with rugged combat boots and a leather wristband, showcasing a modern urban attitude."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:athletic",
+            "completion": "outfit:Printed sweatshirt with track pants,footwear:Modern running shoes,accessories:Casual backpack,response:Get a sporty street-style look with a printed sweatshirt and track pants. Complete the outfit with modern running shoes and a casual backpack for a comfortable and stylish appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:athletic",
+            "completion": "outfit:Oversized hoodie with cargo shorts,footwear:Slides,accessories:Sporty wristwatch,response:Embrace the oversized trend with a comfortable hoodie paired with cargo shorts. Complete the look with slides and a sporty wristwatch, capturing the relaxed yet trendy street-style vibe."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Leather jacket with slim jeans,footwear:Chelsea boots,accessories:Stylish belt,response:Get a classic street-style look with a leather jacket and slim jeans. Complete the outfit with stylish Chelsea boots and a statement belt, showcasing timeless urban fashion."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Streetwear hoodie with cargo joggers,footwear:High-top sneakers,accessories:Snapback cap,response:Stay on-trend with a streetwear hoodie and comfortable cargo joggers. Complete the look with high-top sneakers and a snapback cap, embodying a contemporary street-style statement."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Graphic T-shirt with slim-fit jeans,footwear:Retro sneakers,accessories:Statement necklace,response:Elevate your street-style game with a graphic T-shirt paired with slim-fit jeans. Complete the outfit with retro sneakers and a statement necklace, adding a unique touch to your look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:athletic",
+            "completion": "outfit:Casual hoodie with jogger shorts,footwear:Sporty slides,accessories:Digital watch,response:Get a sporty and relaxed street-style look with a casual hoodie and jogger shorts. Complete the outfit with sporty slides and a digital watch, embodying a comfortable and modern urban vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Cropped graphic hoodie with high-waisted jeans,footwear:White sneakers,accessories:Chunky hoop earrings,response:Get a trendy street-style look with a cropped graphic hoodie paired with high-waisted jeans. Complete the outfit with classic white sneakers and chunky hoop earrings for a stylish urban vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Oversized denim jacket with leggings,footwear:Canvas sneakers,accessories:Retro sunglasses,response:Stay chic with an oversized denim jacket layered over comfortable leggings. Complete the look with classic canvas sneakers and retro-style sunglasses, embodying an effortlessly stylish street look."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Urban bomber jacket with distressed skinny jeans,footwear:Combat boots,accessories:Leather choker,response:Channel the edgy street-style vibe with an urban bomber jacket and distressed skinny jeans. Complete the look with rugged combat boots and a leather choker, showcasing a modern urban attitude."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Printed sweatshirt dress with modern sneakers,footwear:Casual backpack,accessories:Sporty wristwatch,response:Get a sporty street-style look with a printed sweatshirt dress and modern sneakers. Complete the outfit with a casual backpack and a sporty wristwatch for a comfortable and stylish appearance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Oversized hoodie with distressed denim shorts,footwear:Slides,accessories:Stylish belt,response:Embrace the oversized trend with a comfortable hoodie paired with distressed denim shorts. Complete the look with slides and a stylish belt, capturing the relaxed yet trendy street-style vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Leather biker jacket with ripped skinny jeans,footwear:Ankle boots,accessories:Statement necklace,response:Get a classic street-style look with a leather biker jacket and ripped skinny jeans. Complete the outfit with stylish ankle boots and a statement necklace, showcasing timeless urban fashion."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Streetwear hoodie with cargo joggers,footwear:Chunky sneakers,accessories:Snapback cap,response:Stay on-trend with a streetwear hoodie and comfortable cargo joggers. Complete the look with chunky sneakers and a snapback cap, embodying a contemporary street-style statement."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Graphic T-shirt dress with high-top sneakers,footwear:Statement socks,response:Elevate your street-style game with a graphic T-shirt dress paired with high-top sneakers. Complete the look with statement socks, adding a unique touch to your look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Casual hoodie with jogger shorts,footwear:Sporty slides,accessories:Digital watch,response:Get a sporty and relaxed street-style look with a casual hoodie and jogger shorts. Complete the outfit with sporty slides and a digital watch, embodying a comfortable and modern urban vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Graphic crop top with mom jeans,footwear:Platform sneakers,accessories:Chunky bracelets,response:Get a bold street-style look with a graphic crop top paired with mom jeans. Complete the outfit with platform sneakers and chunky bracelets, showcasing a confident urban vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:gym,body-size:athletic",
+            "completion": "outfit:Moisture-wicking performance T-shirt with fitted gym shorts,footwear:Running shoes,accessories:Sports wristband,response:Stay comfortable during your workout with a moisture-wicking performance T-shirt and fitted gym shorts. Complete the look with supportive running shoes and a sports wristband, ensuring a high-performance gym session."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:gym,body-size:fit",
+            "completion": "outfit:Compression tank top with training joggers,footwear:Cross-training sneakers,accessories:Wireless earbuds,response:Maximize mobility with a compression tank top paired with training joggers. Complete the outfit with versatile cross-training sneakers and wireless earbuds, creating a focused and efficient gym attire."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:gym,body-size:athletic",
+            "completion": "outfit:Sleeveless hoodie with performance leggings,footwear:Training shoes,accessories:Hydration bottle,response:Embrace a modern athletic look with a sleeveless hoodie and performance leggings. Complete the outfit with supportive training shoes and a hydration bottle, ensuring comfort and functionality during your gym routine."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:gym,body-size:fit",
+            "completion": "outfit:Quick-dry fitness tank with mesh shorts,footwear:Lightweight gym sneakers,accessories:Sports cap,response:Stay cool and focused with a quick-dry fitness tank paired with breathable mesh shorts. Complete the look with lightweight gym sneakers and a sports cap, providing a dynamic gym outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:gym,body-size:athletic",
+            "completion": "outfit:Performance long-sleeve top with training tights,footwear:Crossfit shoes,accessories:Gym gloves,response:Prepare for intensive workouts with a performance long-sleeve top and training tights. Complete the outfit with supportive crossfit shoes and gym gloves, enhancing your gym experience."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:gym,body-size:athletic",
+            "completion": "outfit:Muscle-fit gym tank with training shorts,footwear:Lightweight running shoes,accessories:Bluetooth earphones,response:Showcase your physique with a muscle-fit gym tank paired with training shorts. Complete the look with lightweight running shoes and Bluetooth earphones, staying motivated and comfortable at the gym."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:gym,body-size:fit",
+            "completion": "outfit:Classic athletic T-shirt with workout joggers,footwear:Versatile gym sneakers,accessories:Sweatband,response:Opt for a classic gym look with an athletic T-shirt and comfortable workout joggers. Complete the outfit with versatile gym sneakers and a sweatband, providing a timeless and practical gym attire."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:gym,body-size:athletic",
+            "completion": "outfit:Performance tank top with training shorts,footwear:Stability training shoes,accessories:Protein shaker,response:Enhance your gym performance with a performance tank top and training shorts. Complete the outfit with stability training shoes and a protein shaker, staying dedicated to your fitness goals."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:gym,body-size:athletic",
+            "completion": "outfit:Compression long-sleeve shirt with gym leggings,footwear:Supportive training shoes,accessories:Activity tracker,response:Experience maximum support with a compression long-sleeve shirt and gym leggings. Complete the outfit with supportive training shoes and an activity tracker, monitoring your progress during workouts."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:gym,body-size:fit",
+            "completion": "outfit:Lightweight performance hoodie with workout shorts,footwear:Comfortable gym sneakers,accessories:Sweat towel,response:Stay comfortable and focused with a lightweight performance hoodie and workout shorts. Complete the look with comfortable gym sneakers and a sweat towel, ensuring a productive gym session."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:gym,body-size:fit",
+            "completion": "outfit:Moisture-wicking workout tank with high-waisted leggings,footwear:Training shoes,accessories:Sports headband,response:Stay comfortable during your workout with a moisture-wicking workout tank and high-waisted leggings. Complete the look with supportive training shoes and a sports headband, ensuring a high-performance gym session."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:gym,body-size:fit",
+            "completion": "outfit:Performance sports bra with workout shorts,footwear:Cross-training sneakers,accessories:Wireless earbuds,response:Maximize flexibility with a performance sports bra paired with workout shorts. Complete the outfit with versatile cross-training sneakers and wireless earbuds, creating a focused and efficient gym attire."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:gym,body-size:athletic",
+            "completion": "outfit:Sleeveless workout hoodie with fitted gym leggings,footwear:Training shoes,accessories:Hydration bottle,response:Embrace a modern athletic look with a sleeveless workout hoodie and fitted gym leggings. Complete the outfit with supportive training shoes and a hydration bottle, ensuring comfort and functionality during your gym routine."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:gym,body-size:fit",
+            "completion": "outfit:Quick-dry fitness tank with yoga pants,footwear:Lightweight gym sneakers,accessories:Sports cap,response:Stay cool and focused with a quick-dry fitness tank paired with comfortable yoga pants. Complete the look with lightweight gym sneakers and a sports cap, providing a dynamic gym outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:gym,body-size:athletic",
+            "completion": "outfit:Performance long-sleeve top with high-performance leggings,footwear:Crossfit shoes,accessories:Gym gloves,response:Prepare for intensive workouts with a performance long-sleeve top and high-performance leggings. Complete the outfit with supportive crossfit shoes and gym gloves, enhancing your gym experience."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:gym,body-size:athletic",
+            "completion": "outfit:Muscle-fit gym tank with training shorts,footwear:Lightweight running shoes,accessories:Bluetooth earphones,response:Showcase your confidence with a muscle-fit gym tank paired with training shorts. Complete the look with lightweight running shoes and Bluetooth earphones, staying motivated and comfortable at the gym."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:gym,body-size:fit",
+            "completion": "outfit:Classic athletic T-shirt with workout leggings,footwear:Versatile gym sneakers,accessories:Sweatband,response:Opt for a classic gym look with an athletic T-shirt and comfortable workout leggings. Complete the outfit with versatile gym sneakers and a sweatband, providing a timeless and practical gym attire."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:gym,body-size:athletic",
+            "completion": "outfit:Performance tank top with training shorts,footwear:Stability training shoes,accessories:Protein shaker,response:Enhance your gym performance with a performance tank top and training shorts. Complete the outfit with stability training shoes and a protein shaker, staying dedicated to your fitness goals."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:gym,body-size:athletic",
+            "completion": "outfit:Compression long-sleeve shirt with workout leggings,footwear:Supportive training shoes,accessories:Activity tracker,response:Experience maximum support with a compression long-sleeve shirt and workout leggings. Complete the outfit with supportive training shoes and an activity tracker, monitoring your progress during workouts."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:gym,body-size:fit",
+            "completion": "outfit:Lightweight performance hoodie with gym shorts,footwear:Comfortable training sneakers,accessories:Sweat towel,response:Stay comfortable and focused with a lightweight performance hoodie and gym shorts. Complete the look with comfortable training sneakers and a sweat towel, ensuring a productive gym session."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Well-fitted solid-color T-shirt with slim-fit jeans,footwear:Classic sneakers,accessories:Simple wristwatch,response:Accentuate your slim build with a well-fitted solid-color T-shirt paired with slim-fit jeans. Complete the look with classic sneakers and a simple wristwatch, creating a stylish and comfortable casual outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Button-down shirt with chino pants,footwear:Loafers,accessories:Trendy sunglasses,response:Opt for a classic yet modern look with a button-down shirt and comfortable chino pants. Complete the outfit with stylish loafers and trendy sunglasses, showcasing a sophisticated casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Lightweight sweater with well-fitted trousers,footwear:Casual lace-up shoes,accessories:Minimalist belt,response:Stay comfortable and refined with a lightweight sweater paired with well-fitted trousers. Complete the look with casual lace-up shoes and a minimalist belt, offering a sleek and polished casual outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Casual fitted blazer with slim dress pants,footwear:Oxford shoes,accessories:Pocket square,response:Elevate your casual style with a casual fitted blazer paired with slim dress pants. Complete the outfit with classic Oxford shoes and a stylish pocket square, creating a sophisticated and confident look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Graphic-print slim-fit polo shirt with dark wash jeans,footwear:Modern sneakers,accessories:Leather bracelet,response:Stay trendy with a graphic-print slim-fit polo shirt paired with dark wash jeans. Complete the look with modern sneakers and a leather bracelet, capturing a fashionable casual vibe."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Crew neck sweater with slim trousers,footwear:Chelsea boots,accessories:Stylish watch,response:Embrace a versatile and stylish look with a crew neck sweater and slim trousers. Complete the outfit with classic Chelsea boots and a stylish watch, creating a refined and comfortable casual outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Knit pullover with well-fitted khaki pants,footwear:Casual sneakers,accessories:Modern glasses,response:Opt for a cozy and modern look with a knit pullover paired with well-fitted khaki pants. Complete the outfit with comfortable casual sneakers and modern glasses, showcasing a relaxed and stylish casual style."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Slim-fit denim jacket with fitted joggers,footwear:Street-style sneakers,accessories:Beanie hat,response:Get a cool street-style look with a slim-fit denim jacket and fitted joggers. Complete the outfit with street-style sneakers and a beanie hat, embodying a fashionable and comfortable casual vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:V-neck sweater with well-fitted dress pants,footwear:Derby shoes,accessories:Minimalist tie,response:Elevate your casual style with a V-neck sweater paired with well-fitted dress pants. Complete the look with classic Derby shoes and a minimalist tie, creating a sophisticated and confident look."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:slim",
+            "completion": "outfit:Casual fitted blazer with slim jeans,footwear:Casual loafers,accessories:Stylish belt,response:Stay sharp with a casual fitted blazer paired with slim jeans. Complete the outfit with comfortable casual loafers and a stylish belt, capturing a refined yet relaxed casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Well-fitted solid-color T-shirt with skinny jeans,footwear:Casual sneakers,accessories:Delicate necklace,response:Accentuate your slim figure with a well-fitted solid-color T-shirt paired with skinny jeans. Complete the look with comfortable casual sneakers and a delicate necklace, creating a stylish and comfortable casual outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Flowy blouse with high-waisted slim-fit trousers,footwear:Pointed-toe flats,accessories:Chic earrings,response:Opt for a versatile and elegant look with a flowy blouse and high-waisted slim-fit trousers. Complete the outfit with stylish pointed-toe flats and chic earrings, showcasing a sophisticated and confident style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Lightweight knit sweater with well-fitted pencil skirt,footwear:Low-heel ankle boots,accessories:Minimalist bracelet,response:Stay cozy and refined with a lightweight knit sweater paired with a well-fitted pencil skirt. Complete the look with low-heel ankle boots and a minimalist bracelet, offering a polished and comfortable casual outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Casual fitted blazer with slim trousers,footwear:Classic ballet flats,accessories:Trendy scarf,response:Elevate your casual style with a casual fitted blazer paired with slim trousers. Complete the outfit with classic ballet flats and a trendy scarf, creating a refined and confident look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Printed slim-fit blouse with dark wash skinny jeans,footwear:Modern sneakers,accessories:Stylish watch,response:Get a fashionable look with a printed slim-fit blouse paired with dark wash skinny jeans. Complete the look with modern sneakers and a stylish watch, capturing a trendy and comfortable casual vibe."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Crew neck sweater with well-fitted trousers,footwear:Pointed-toe ankle boots,accessories:Delicate necklace,response:Embrace a versatile and stylish look with a crew neck sweater and well-fitted trousers. Complete the outfit with pointed-toe ankle boots and a delicate necklace, creating a refined and comfortable casual outfit."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Knit pullover with well-fitted slim jeans,footwear:Casual lace-up sneakers,accessories:Stylish glasses,response:Stay cozy and modern with a knit pullover paired with well-fitted slim jeans. Complete the look with comfortable casual lace-up sneakers and stylish glasses, showcasing a relaxed and fashionable casual style."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Slim-fit denim jacket with fitted skinny jeans,footwear:Casual loafers,accessories:Chic belt,response:Get a cool and stylish look with a slim-fit denim jacket and fitted skinny jeans. Complete the outfit with comfortable casual loafers and a chic belt, embodying a fashionable and comfortable casual vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:V-neck sweater with well-fitted dress pants,footwear:Classic low-heel pumps,accessories:Delicate bracelet,response:Elevate your casual style with a V-neck sweater paired with well-fitted dress pants. Complete the look with classic low-heel pumps and a delicate bracelet, creating a sophisticated and confident outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:slim",
+            "completion": "outfit:Casual fitted blazer with slim jeans,footwear:Comfortable ballet flats,accessories:Modern pendant necklace,response:Stay sharp and comfortable with a casual fitted blazer paired with slim jeans. Complete the outfit with comfortable ballet flats and a modern pendant necklace, capturing a refined yet relaxed casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Relaxed-fit solid-color T-shirt with comfortable jeans,footwear:Casual sneakers,accessories:Simple wristwatch,response:Embrace comfort and style with a relaxed-fit solid-color T-shirt paired with comfortable jeans. Complete the look with casual sneakers and a simple wristwatch, creating a versatile and comfortable casual outfit for plus-size men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Button-down shirt with relaxed-fit chino pants,footwear:Loafers,accessories:Trendy sunglasses,response:Opt for a classic yet modern look with a button-down shirt and relaxed-fit chino pants. Complete the outfit with stylish loafers and trendy sunglasses, showcasing a sophisticated casual style that's perfect for plus-size men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Lightweight sweater with relaxed-fit trousers,footwear:Casual lace-up shoes,accessories:Minimalist belt,response:Stay comfortable and refined with a lightweight sweater paired with relaxed-fit trousers. Complete the look with casual lace-up shoes and a minimalist belt, offering a relaxed and polished casual outfit for plus-size men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Casual relaxed-fit blazer with comfortable jeans,footwear:Classic sneakers,accessories:Stylish cap,response:Elevate your casual style with a relaxed-fit blazer paired with comfortable jeans. Complete the outfit with classic sneakers and a stylish cap, creating a versatile and confident look for plus-size men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Graphic-print relaxed-fit polo shirt with dark wash jeans,footwear:Modern sneakers,accessories:Stylish watch,response:Stay trendy and comfortable with a graphic-print relaxed-fit polo shirt paired with dark wash jeans. Complete the look with modern sneakers and a stylish watch, capturing a fashionable casual vibe for plus-size men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Crew neck sweater with relaxed-fit trousers,footwear:Comfortable loafers,accessories:Casual belt,response:Get a versatile and stylish look with a crew neck sweater and relaxed-fit trousers. Complete the outfit with comfortable loafers and a casual belt, offering a polished and comfortable casual style for plus-size men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Knit pullover with comfortable jeans,footwear:Casual lace-up sneakers,accessories:Stylish glasses,response:Stay cozy and modern with a knit pullover paired with comfortable jeans. Complete the look with casual lace-up sneakers and stylish glasses, showcasing a relaxed and fashionable casual style for plus-size men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Relaxed-fit denim jacket with comfortable jeans,footwear:Casual loafers,accessories:Chic belt,response:Get a cool and stylish look with a relaxed-fit denim jacket and comfortable jeans. Complete the outfit with comfortable casual loafers and a chic belt, embodying a fashionable and comfortable casual vibe for plus-size men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:V-neck sweater with relaxed-fit dress pants,footwear:Classic low-heel pumps,accessories:Stylish watch,response:Elevate your casual style with a V-neck sweater paired with relaxed-fit dress pants. Complete the look with classic low-heel pumps and a stylish watch, creating a sophisticated and confident outfit for plus-size men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Casual relaxed-fit blazer with comfortable jeans,footwear:Comfortable loafers,accessories:Trendy scarf,response:Stay sharp and comfortable with a relaxed-fit blazer paired with comfortable jeans. Complete the outfit with comfortable loafers and a trendy scarf, capturing a refined yet relaxed casual style for plus-size men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Flowy top with comfortable skinny jeans,footwear:Casual sneakers,accessories:Statement necklace,response:Embrace comfort and style with a flowy top paired with comfortable skinny jeans. Complete the look with casual sneakers and a statement necklace, creating a versatile and comfortable casual outfit for plus-size women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Tunic dress with leggings,footwear:Comfortable slip-on shoes,accessories:Trendy sunglasses,response:Opt for a relaxed and stylish look with a tunic dress paired with leggings. Complete the outfit with comfortable slip-on shoes and trendy sunglasses, showcasing a comfortable and fashionable casual style for plus-size women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Lightweight cardigan with relaxed-fit trousers,footwear:Casual lace-up shoes,accessories:Minimalist bracelet,response:Stay cozy and refined with a lightweight cardigan paired with relaxed-fit trousers. Complete the look with casual lace-up shoes and a minimalist bracelet, offering a relaxed and polished casual outfit for plus-size women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Casual relaxed-fit blazer with comfortable jeans,footwear:Classic ballet flats,accessories:Trendy scarf,response:Elevate your casual style with a relaxed-fit blazer paired with comfortable jeans. Complete the outfit with classic ballet flats and a trendy scarf, creating a refined and confident look for plus-size women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Printed relaxed-fit top with dark wash skinny jeans,footwear:Modern sneakers,accessories:Stylish watch,response:Stay trendy and comfortable with a printed relaxed-fit top paired with dark wash skinny jeans. Complete the look with modern sneakers and a stylish watch, capturing a fashionable casual vibe for plus-size women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Relaxed-fit sweater with comfortable trousers,footwear:Comfortable loafers,accessories:Casual belt,response:Get a versatile and stylish look with a relaxed-fit sweater and comfortable trousers. Complete the outfit with comfortable loafers and a casual belt, offering a polished and comfortable casual style for plus-size women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Knit pullover with comfortable jeans,footwear:Casual lace-up sneakers,accessories:Stylish glasses,response:Stay cozy and modern with a knit pullover paired with comfortable jeans. Complete the look with casual lace-up sneakers and stylish glasses, showcasing a relaxed and fashionable casual style for plus-size women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Relaxed-fit denim jacket with comfortable jeans,footwear:Casual loafers,accessories:Chic belt,response:Get a cool and stylish look with a relaxed-fit denim jacket and comfortable jeans. Complete the outfit with comfortable casual loafers and a chic belt, embodying a fashionable and comfortable casual vibe for plus-size women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:V-neck sweater with relaxed-fit dress pants,footwear:Classic low-heel pumps,accessories:Stylish watch,response:Elevate your casual style with a V-neck sweater paired with relaxed-fit dress pants. Complete the look with classic low-heel pumps and a stylish watch, creating a sophisticated and confident outfit for plus-size women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:plus-size",
+            "completion": "outfit:Casual relaxed-fit blazer with comfortable jeans,footwear:Comfortable ballet flats,accessories:Modern pendant necklace,response:Stay sharp and comfortable with a relaxed-fit blazer paired with comfortable jeans. Complete the outfit with comfortable ballet flats and a modern pendant necklace, capturing a refined yet relaxed casual style for plus-size women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Well-fitted white dress shirt with slim-fit navy dress pants,footwear:Classic black oxford shoes,accessories:Leather belt,response:Achieve a sharp and professional look with a well-fitted white dress shirt paired with slim-fit navy dress pants. Complete the outfit with classic black oxford shoes and a matching leather belt, projecting confidence and elegance in the office for underweight men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Light gray tailored suit with a slim-fitting black tie,footwear:Black leather dress shoes,accessories:Silver cufflinks,response:Elevate your formal attire with a light gray tailored suit and a slim-fitting black tie. Complete the look with black leather dress shoes and silver cufflinks, embodying sophistication and professionalism in the office for underweight men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Classic slim-fit charcoal gray blazer with dress trousers,footwear:Brown leather derby shoes,accessories:Patterned silk pocket square,response:Stay refined and versatile with a classic slim-fit charcoal gray blazer paired with dress trousers. Complete the outfit with brown leather derby shoes and a stylish patterned silk pocket square, showcasing a polished office style for underweight men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Tailored slim-fit white dress shirt with dark gray dress trousers,footwear:Brown leather loafers,accessories:Modern wristwatch,response:Opt for a modern and sophisticated look with a tailored slim-fit white dress shirt and dark gray dress trousers. Complete the outfit with brown leather loafers and a modern wristwatch, projecting a confident and stylish appearance in the office for underweight men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Light blue dress shirt with slim-fit khaki dress pants,footwear:Classic brogue shoes,accessories:Leather belt,response:Stay comfortable and stylish with a light blue dress shirt paired with slim-fit khaki dress pants. Complete the look with classic brogue shoes and a matching leather belt, projecting a classic and professional appearance in the office for underweight men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Navy pinstripe suit with a slim-fitting tie,footwear:Black leather dress shoes,accessories:Silver tie bar,response:Get a distinguished and formal look with a navy pinstripe suit and a slim-fitting tie. Complete the outfit with black leather dress shoes and a silver tie bar, showcasing a timeless and professional style in the office for underweight men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Charcoal gray suit jacket with dress trousers,footwear:Black leather monk strap shoes,accessories:Silk pocket square,response:Elevate your formal attire with a charcoal gray suit jacket paired with dress trousers. Complete the outfit with black leather monk strap shoes and a stylish silk pocket square, projecting a refined and confident appearance in the office for underweight men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Light gray slim-fit dress shirt with black dress trousers,footwear:Classic black cap-toe shoes,accessories:Stylish leather belt,response:Embrace a modern and professional look with a light gray slim-fit dress shirt and black dress trousers. Complete the outfit with classic black cap-toe shoes and a stylish leather belt, creating a sophisticated and versatile office style for underweight men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:Dark blue tailored blazer with dress trousers,footwear:Brown leather wingtip shoes,accessories:Classic wristwatch,response:Stay polished and versatile with a dark blue tailored blazer paired with dress trousers. Complete the outfit with brown leather wingtip shoes and a classic wristwatch, projecting a refined and confident appearance in the office for underweight men."
+        },
+        {
+            "prompt": "age-group:genz,gender:male,occasion:office,body-size:slim",
+            "completion": "outfit:White dress shirt with slim-fit gray dress pants,footwear:Black leather chelsea boots,accessories:Polished leather belt,response:Opt for a clean and professional look with a white dress shirt paired with slim-fit gray dress pants. Complete the outfit with black leather chelsea boots and a polished leather belt, showcasing a modern and confident office style for underweight men."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Tailored white blouse with slim-fit black dress pants,footwear:Classic black pumps,accessories:Minimalist pendant necklace,response:Achieve a timeless and professional look with a tailored white blouse paired with slim-fit black dress pants. Complete the outfit with classic black pumps and a minimalist pendant necklace, projecting confidence and elegance in the office for underweight women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Light gray business suit with a slim-fitting silk tie,footwear:Black leather heels,accessories:Pearl stud earrings,response:Elevate your formal attire with a light gray business suit and a slim-fitting silk tie. Complete the look with black leather heels and elegant pearl stud earrings, embodying sophistication and professionalism in the office for underweight women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Classic slim-fit charcoal gray blazer with pencil skirt,footwear:Brown leather pumps,accessories:Statement bracelet,response:Stay refined and versatile with a classic slim-fit charcoal gray blazer paired with a pencil skirt. Complete the outfit with brown leather pumps and a stylish statement bracelet, showcasing a polished office style for underweight women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Tailored slim-fit white blouse with dark gray dress trousers,footwear:Brown leather loafers,accessories:Modern wristwatch,response:Opt for a modern and sophisticated look with a tailored slim-fit white blouse and dark gray dress trousers. Complete the outfit with brown leather loafers and a modern wristwatch, projecting a confident and stylish appearance in the office for underweight women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Light blue blouse with slim-fit knee-length skirt,footwear:Classic pumps,accessories:Leather belt,response:Stay comfortable and stylish with a light blue blouse paired with a slim-fit knee-length skirt. Complete the look with classic pumps and a matching leather belt, projecting a classic and professional appearance in the office for underweight women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Navy pinstripe business suit with a slim-fitting tie,footwear:Black leather heels,accessories:Silver hoop earrings,response:Get a distinguished and formal look with a navy pinstripe business suit and a slim-fitting tie. Complete the outfit with black leather heels and silver hoop earrings, showcasing a timeless and professional style in the office for underweight women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Charcoal gray suit jacket with pencil skirt,footwear:Black leather pumps,accessories:Silk scarf,response:Elevate your formal attire with a charcoal gray suit jacket paired with a pencil skirt. Complete the outfit with black leather pumps and a stylish silk scarf, projecting a refined and confident appearance in the office for underweight women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Light gray slim-fit blouse with black dress trousers,footwear:Classic black pumps,accessories:Stylish leather belt,response:Embrace a modern and professional look with a light gray slim-fit blouse and black dress trousers. Complete the outfit with classic black pumps and a stylish leather belt, creating a sophisticated and versatile office style for underweight women."
+        },
+        {
+            "prompt": "age-group:millennials,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:Dark blue tailored blazer with pencil skirt,footwear:Brown leather heels,accessories:Classic wristwatch,response:Stay polished and versatile with a dark blue tailored blazer paired with a pencil skirt. Complete the outfit with brown leather heels and a classic wristwatch, projecting a refined and confident appearance in the office for underweight women."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:office,body-size:slim",
+            "completion": "outfit:White slim-fit blouse with slim-fit gray dress pants,footwear:Black leather pumps,accessories:Polished silver bracelet,response:Opt for a clean and professional look with a white slim-fit blouse paired with slim-fit gray dress pants. Complete the outfit with black leather pumps and a polished silver bracelet, showcasing a modern and confident office style for underweight women."
+        }, {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Graphic print T-shirt with distressed denim jeans,footwear:Retro-style sneakers,accessories:Trendy snapback hat,response:Get a trendy and edgy look inspired by influencers with a graphic print T-shirt paired with distressed denim jeans. Complete the outfit with retro-style sneakers and a stylish snapback hat, capturing a youthful and fashionable casual vibe."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Crop top with high-waisted ripped skinny jeans,footwear:Platform sneakers,accessories:Chunky statement necklace,response:Embrace a bold and chic look inspired by influencers with a crop top and high-waisted ripped skinny jeans. Complete the outfit with platform sneakers and a chunky statement necklace, showcasing a stylish and confident casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Oversized hoodie with jogger pants,footwear:Street-style high-top sneakers,accessories:Beanie and sunglasses,response:Stay comfy and cool with an oversized hoodie paired with jogger pants, a popular look embraced by influencers. Complete the outfit with street-style high-top sneakers and add a beanie and sunglasses for an effortlessly fashionable casual outfit."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Off-the-shoulder top with distressed mom jeans,footwear:White low-top sneakers,accessories:Layered delicate necklaces,response:Get a relaxed yet stylish look inspired by influencers with an off-the-shoulder top and distressed mom jeans. Complete the outfit with white low-top sneakers and layer delicate necklaces for a trendy and fashionable casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Vintage-inspired graphic hoodie with slim-fit cargo pants,footwear:Retro-style sneakers,accessories:Trendy watch,response:Embrace a nostalgic and trendy look with a vintage-inspired graphic hoodie paired with slim-fit cargo pants, a popular choice among influencers. Complete the outfit with retro-style sneakers and a trendy watch for a modern casual vibe."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Boho-style flowy maxi dress with ankle boots,footwear:Trendy stacked bracelets,response:Channel a bohemian-inspired look embraced by influencers with a flowy maxi dress. Complete the outfit with ankle boots and add trendy stacked bracelets for a free-spirited and stylish casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Athleisure tracksuit with sporty sneakers,footwear:Sporty cap,response:Embrace the athleisure trend favored by influencers with a tracksuit. Complete the outfit with sporty sneakers and a trendy sporty cap, offering a comfortable and modern casual look."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Denim jacket with high-waisted shorts and a tied crop top,footwear:Chunky sneakers,accessories:Retro-style sunglasses,response:Get a retro-inspired look with a denim jacket, high-waisted shorts, and a tied crop top, a favorite among influencers. Complete the outfit with chunky sneakers and retro-style sunglasses, capturing a playful and stylish casual vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Striped short-sleeve button-up shirt with tailored chino shorts,footwear:Classic canvas sneakers,accessories:Casual woven belt,response:Get a classic and preppy look inspired by influencers with a striped short-sleeve button-up shirt and tailored chino shorts. Complete the outfit with classic canvas sneakers and a casual woven belt, offering a timeless and polished casual style."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Urban camo cargo pants with a plain white T-shirt,footwear:Platform combat boots,accessories:Stylish crossbody bag,response:Embrace an urban and edgy look with camo cargo pants paired with a plain white T-shirt. Complete the outfit with platform combat boots and a stylish crossbody bag, capturing a bold and street-inspired casual style favored by influencers."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Colorful graphic print hoodie with slim-fit black jeans,footwear:High-top sneakers,accessories:Snapback cap,response:Get a vibrant and urban-inspired look with a colorful graphic print hoodie paired with slim-fit black jeans, a favorite among influencers. Complete the outfit with high-top sneakers and a stylish snapback cap, embracing a bold and energetic casual style."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Retro-style graphic T-shirt with high-waisted mom jeans,footwear:Chunky platform sandals,accessories:Round sunglasses,response:Channel a retro vibe with a retro-style graphic T-shirt and high-waisted mom jeans, capturing a look embraced by influencers. Complete the outfit with chunky platform sandals and round sunglasses, creating a chic and stylish casual ensemble."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Oversized flannel shirt with ripped skinny jeans,footwear:Vintage-inspired sneakers,accessories:Knit beanie,response:Stay effortlessly cool with an oversized flannel shirt paired with ripped skinny jeans, a go-to look for influencers. Complete the outfit with vintage-inspired sneakers and a cozy knit beanie, embodying a relaxed and fashionable casual style."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Boho-style floral mini dress with ankle boots,footwear:Tassel earrings,response:Embrace a bohemian-inspired look with a boho-style floral mini dress and ankle boots, a favorite among influencers. Complete the outfit with trendy tassel earrings, capturing a free-spirited and stylish casual vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Vintage band T-shirt with distressed skinny jeans,footwear:Retro-style sneakers,accessories:Leather wristband,response:Get a vintage and rock-inspired look with a vintage band T-shirt paired with distressed skinny jeans, a timeless choice among influencers. Complete the outfit with retro-style sneakers and a leather wristband, showcasing a bold and expressive casual style."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Off-the-shoulder romper with slide sandals,footwear:Wide-brim straw hat,response:Channel a relaxed and summer-ready look with an off-the-shoulder romper and slide sandals, a stylish choice among influencers. Complete the outfit with a wide-brim straw hat, creating a breezy and fashionable casual ensemble."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Athleisure zip-up hoodie with jogger pants,footwear:Sporty sneakers,accessories:Sports watch,response:Embrace the athleisure trend with a zip-up hoodie and jogger pants, a favored look among influencers. Complete the outfit with sporty sneakers and a sports watch, offering a comfortable and modern casual appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Denim overalls with a striped T-shirt,footwear:Canvas sneakers,accessories:Retro-style hair scarf,response:Get a playful and retro-inspired look with denim overalls paired with a striped T-shirt, a favorite among influencers. Complete the outfit with canvas sneakers and a retro-style hair scarf, showcasing a youthful and fashionable casual style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:casual,body-size:fit",
+            "completion": "outfit:Patterned short-sleeve button-up shirt with casual chino shorts,footwear:Classic white sneakers,accessories:Stylish sunglasses,response:Elevate your casual look with a patterned short-sleeve button-up shirt and casual chino shorts, a versatile choice inspired by influencers. Complete the outfit with classic white sneakers and stylish sunglasses, projecting a polished and confident appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:casual,body-size:fit",
+            "completion": "outfit:Effortless midi wrap dress with slip-on espadrilles,footwear:Tassel pendant necklace,response:Stay effortlessly chic with a midi wrap dress, a timeless choice among influencers. Complete the outfit with comfortable slip-on espadrilles and a stylish tassel pendant necklace, capturing a relaxed and stylish casual vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Tailored charcoal gray suit with a crisp white dress shirt,footwear:Classic black oxford shoes,accessories:Silver tie bar,response:Get a timeless and elegant look with a tailored charcoal gray suit paired with a crisp white dress shirt, a classic choice among influencers. Complete the outfit with classic black oxford shoes and a silver tie bar, projecting confidence and sophistication in formal settings."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Floor-length navy evening gown with subtle sequin details,footwear:Strappy high heels,accessories:Diamond stud earrings,response:Elevate your formal attire with a floor-length navy evening gown featuring subtle sequin details, a chic and stylish choice among influencers. Complete the outfit with strappy high heels and elegant diamond stud earrings, embodying grace and glamour for formal occasions."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Classic black tuxedo with a slim-fit black bow tie,footwear:Patent leather dress shoes,accessories:Black leather belt,response:Stay impeccably stylish with a classic black tuxedo paired with a slim-fit black bow tie, a quintessential look embraced by influencers for formal events. Complete the outfit with patent leather dress shoes and a black leather belt, projecting sophistication and refinement."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Off-the-shoulder mermaid-cut evening gown with delicate lace details,footwear:Strappy metallic heels,accessories:Statement cocktail ring,response:Channel an alluring and elegant look with an off-the-shoulder mermaid-cut evening gown featuring delicate lace details, a favorite choice among influencers for formal galas. Complete the outfit with strappy metallic heels and a stunning statement cocktail ring, radiating sophistication and charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Navy tailored blazer with dress trousers and a classic white dress shirt,footwear:Brown leather brogue shoes,accessories:Pocket square and tie bar,response:Get a polished and versatile look with a navy tailored blazer, dress trousers, and a classic white dress shirt, a modern choice inspired by influencers for formal occasions. Complete the outfit with brown leather brogue shoes, a pocket square, and a stylish tie bar, projecting a confident and stylish appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Floor-length blush pink evening gown with subtle floral embroidery,footwear:Embellished high heels,accessories:Pearl drop earrings,response:Embrace a romantic and elegant look with a floor-length blush pink evening gown featuring subtle floral embroidery, a captivating choice among influencers for formal events. Complete the outfit with embellished high heels and delicate pearl drop earrings, exuding grace and charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Dark gray three-piece suit with a slim black tie,footwear:Black leather monk strap shoes,accessories:Silver cufflinks,response:Achieve a modern and refined look with a dark gray three-piece suit paired with a slim black tie, a sophisticated choice favored by influencers for formal gatherings. Complete the outfit with black leather monk strap shoes and elegant silver cufflinks, projecting confidence and elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:High-neck lace A-line dress in deep burgundy,footwear:Velvet block heels,accessories:Chandelier earrings,response:Opt for a chic and elegant look with a high-neck lace A-line dress in deep burgundy, a stylish choice among influencers for formal affairs. Complete the outfit with luxurious velvet block heels and stunning chandelier earrings, creating a sophisticated and fashionable ensemble."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Light gray tailored suit with a crisp white dress shirt,footwear:Brown leather wingtip shoes,accessories:Classic silk tie,response:Stay refined and versatile with a light gray tailored suit paired with a crisp white dress shirt, a timeless look embraced by influencers for formal occasions. Complete the outfit with brown leather wingtip shoes and a classic silk tie, projecting a confident and polished appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Elegant one-shoulder draped evening gown in royal blue,footwear:Crystal-embellished high heels,accessories:Diamond bracelet,response:Get a regal and sophisticated look with an elegant one-shoulder draped evening gown in royal blue, a captivating choice among influencers for formal galas. Complete the outfit with crystal-embellished high heels and a stunning diamond bracelet, exuding glamour and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Classic navy suit with a white dress shirt and a patterned silk tie,footwear:Black leather cap-toe shoes,accessories:Silver tie clip,response:Elevate your formal attire with a classic navy suit, a white dress shirt, and a patterned silk tie, a versatile and stylish choice inspired by influencers. Complete the outfit with black leather cap-toe shoes and a sleek silver tie clip, projecting a polished and confident appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Elegant strapless mermaid-cut evening gown with shimmering sequin details,footwear:Crystal-embellished high heels,accessories:Diamond stud earrings,response:Channel a glamorous and captivating look with an elegant strapless mermaid-cut evening gown featuring shimmering sequin details, a favorite choice among influencers for formal galas. Complete the outfit with crystal-embellished high heels and elegant diamond stud earrings, radiating grace and charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Charcoal gray pinstripe suit with a classic white dress shirt,footwear:Black leather oxford shoes,accessories:Silver cufflinks,response:Achieve a sophisticated and timeless look with a charcoal gray pinstripe suit paired with a classic white dress shirt, a favorite choice among influencers for formal events. Complete the outfit with black leather oxford shoes and elegant silver cufflinks, projecting confidence and refinement."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Floor-length emerald green evening gown with a thigh-high slit,footwear:Strappy metallic heels,accessories:Statement cocktail ring,response:Elevate your formal look with a floor-length emerald green evening gown featuring a thigh-high slit, a captivating choice among influencers for formal galas. Complete the outfit with strappy metallic heels and a stunning statement cocktail ring, exuding confidence and elegance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Dark blue tailored suit with a classic white dress shirt,footwear:Brown leather double monk strap shoes,accessories:Patterned silk tie,response:Stay polished and versatile with a dark blue tailored suit paired with a classic white dress shirt, a timeless and elegant choice embraced by influencers for formal gatherings. Complete the outfit with brown leather double monk strap shoes and a patterned silk tie, projecting a confident and refined appearance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Off-the-shoulder trumpet-cut evening gown with delicate lace details,footwear:Embellished high heels,accessories:Diamond chandelier earrings,response:Channel an enchanting and romantic look with an off-the-shoulder trumpet-cut evening gown featuring delicate lace details, a favorite choice among influencers for formal affairs. Complete the outfit with embellished high heels and stunning diamond chandelier earrings, exuding sophistication and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:formal,body-size:fit",
+            "completion": "outfit:Classic black tuxedo with a crisp white dress shirt and a black bow tie,footwear:Patent leather dress shoes,accessories:Black leather belt,response:Get a timeless and elegant look with a classic black tuxedo paired with a crisp white dress shirt and a black bow tie, a quintessential choice favored by influencers for formal events. Complete the outfit with patent leather dress shoes and a black leather belt, projecting sophistication and refinement."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:formal,body-size:fit",
+            "completion": "outfit:Floor-length burgundy velvet evening gown with a plunging neckline,footwear:Strappy metallic heels,accessories:Chandelier earrings,response:Opt for a luxurious and captivating look with a floor-length burgundy velvet evening gown featuring a plunging neckline, a stylish choice among influencers for formal galas. Complete the outfit with strappy metallic heels and stunning chandelier earrings, radiating elegance and charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Bold floral print short-sleeve shirt with slim-fit black jeans,footwear:Leather Chelsea boots,accessories:Stylish watch,response:Get a standout and trendy look with a bold floral print short-sleeve shirt paired with slim-fit black jeans, a stylish choice embraced by influencers for party occasions. Complete the outfit with leather Chelsea boots and a fashionable watch, capturing a confident and lively party style."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Sequined mini dress with strappy high heels,footwear:Statement earrings,response:Elevate your party look with a sequined mini dress, a glamorous and attention-grabbing choice among influencers. Complete the outfit with strappy high heels and statement earrings, exuding sparkle and confidence for festive celebrations."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Metallic silver bomber jacket with black skinny jeans,footwear:High-top sneakers,accessories:Stylish bracelet,response:Stay bold and modern with a metallic silver bomber jacket paired with black skinny jeans, a favorite look embraced by influencers for party events. Complete the outfit with high-top sneakers and a stylish bracelet, creating an edgy and energetic party ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Velvet wrap dress in deep red,footwear:Strappy metallic heels,accessories:Diamond stud earrings,response:Channel a luxurious and captivating look with a velvet wrap dress in deep red, a favorite choice among influencers for party gatherings. Complete the outfit with strappy metallic heels and elegant diamond stud earrings, exuding elegance and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Patterned silk shirt with dress trousers,footwear:Classic loafers,accessories:Stylish pocket square,response:Get a polished and stylish look with a patterned silk shirt paired with dress trousers, a versatile choice inspired by influencers for party occasions. Complete the outfit with classic loafers and a fashionable pocket square, projecting sophistication and confidence."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Sequin-embellished jumpsuit with strappy high heels,footwear:Statement necklace,response:Opt for a dazzling and chic look with a sequin-embellished jumpsuit, a fashionable and head-turning choice among influencers for party events. Complete the outfit with strappy high heels and a stunning statement necklace, capturing a glamorous and lively party style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Metallic gold blazer with black dress trousers,footwear:Leather dress shoes,accessories:Stylish lapel pin,response:Get a charismatic and elegant look with a metallic gold blazer paired with black dress trousers, a bold choice embraced by influencers for party celebrations. Complete the outfit with leather dress shoes and a stylish lapel pin, exuding charm and sophistication."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Flirty off-the-shoulder cocktail dress in vibrant blue,footwear:High heels with crystal embellishments,accessories:Statement clutch,response:Embrace a flirty and eye-catching look with an off-the-shoulder cocktail dress in vibrant blue, a favorite choice among influencers for party gatherings. Complete the outfit with high heels featuring crystal embellishments and a statement clutch, radiating charm and elegance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Velvet blazer with dark jeans,footwear:Leather sneakers,accessories:Stylish wristwatch,response:Stay sophisticated and modern with a velvet blazer paired with dark jeans, a trendy and stylish choice favored by influencers for party occasions. Complete the outfit with leather sneakers and a fashionable wristwatch, creating a refined and energetic party look."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Sparkling sequin mini skirt with a silk blouse,footwear:Strappy high heels,accessories:Chandelier earrings,response:Get a sparkling and chic look with a sequin mini skirt paired with a silk blouse, a stylish choice embraced by influencers for party events. Complete the outfit with strappy high heels and elegant chandelier earrings, capturing a glamorous and vivacious party style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Velvet tuxedo blazer with black dress trousers,footwear:Classic black oxford shoes,accessories:Stylish bow tie,response:Make a statement with a velvet tuxedo blazer paired with black dress trousers, a luxurious and trendy choice inspired by influencers for party occasions. Complete the outfit with classic black oxford shoes and a stylish bow tie, projecting elegance and confidence."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Shimmering wrap-front midi dress,footwear:Stiletto heels with crystal embellishments,accessories:Diamond hoop earrings,response:Channel a stunning and radiant look with a shimmering wrap-front midi dress, a favorite choice among influencers for party gatherings. Complete the outfit with stiletto heels featuring crystal embellishments and diamond hoop earrings, radiating grace and glamour."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Black leather moto jacket with a graphic print T-shirt and dark jeans,footwear:Stylish boots,accessories:Stacked bracelets,response:Get an edgy and charismatic look with a black leather moto jacket paired with a graphic print T-shirt and dark jeans, a bold choice favored by influencers for party celebrations. Complete the outfit with stylish boots and stacked bracelets, creating an energetic and fashionable party ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Bold sequin crop top with high-waisted tailored pants,footwear:Strappy high heels,accessories:Chunky statement ring,response:Embrace a bold and stylish look with a sequin crop top paired with high-waisted tailored pants, a fashionable choice embraced by influencers for party events. Complete the outfit with strappy high heels and a chunky statement ring, capturing a vivacious and glamorous party style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Velvet vest with a crisp white dress shirt and dress trousers,footwear:Loafers with tassels,accessories:Stylish lapel pin,response:Elevate your party attire with a velvet vest, a crisp white dress shirt, and dress trousers, a refined and sophisticated choice inspired by influencers for party occasions. Complete the outfit with loafers featuring tassels and a stylish lapel pin, projecting confidence and charm."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Chic pleated metallic midi skirt with a fitted bodysuit,footwear:Strappy high heels,accessories:Statement necklace,response:Opt for a chic and eye-catching look with a pleated metallic midi skirt paired with a fitted bodysuit, a trendy and head-turning choice among influencers for party gatherings. Complete the outfit with strappy high heels and a stunning statement necklace, exuding style and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:party,body-size:fit",
+            "completion": "outfit:Patterned silk shirt with dress trousers,footwear:Suede loafers,accessories:Stylish watch,response:Get a polished and stylish look with a patterned silk shirt paired with dress trousers, a versatile choice inspired by influencers for party occasions. Complete the outfit with suede loafers and a fashionable watch, projecting sophistication and confidence."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:party,body-size:fit",
+            "completion": "outfit:Sequin-embellished jumpsuit with strappy high heels,footwear:Statement necklace,response:Opt for a dazzling and chic look with a sequin-embellished jumpsuit, a fashionable and head-turning choice among influencers for party events. Complete the outfit with strappy high heels and a stunning statement necklace, capturing a glamorous and lively party style."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Regal ivory sherwani with intricate gold embroidery,footwear:Juttis with gold embellishments,accessories:Turban and brooch,response:Embrace regal elegance with an ivory sherwani adorned with intricate gold embroidery, a sophisticated choice favored by influencers for Indian weddings. Complete the outfit with juttis featuring gold embellishments, a traditional turban, and a stunning brooch, capturing the essence of luxury and grandeur."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Exquisite red and gold lehenga with intricate zari work,footwear:Embellished stiletto heels,accessories:Statement choker necklace,response:Elevate your Indian wedding look with an exquisite red and gold lehenga featuring intricate zari work, a captivating choice embraced by influencers for traditional ceremonies. Complete the outfit with embellished stiletto heels and a stunning statement choker necklace, exuding grace and bridal charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Royal blue bandhgala suit with golden accents,footwear:Jodhpuri juttis,accessories:Silk safa and pocket square,response:Channel a royal and sophisticated look with a royal blue bandhgala suit adorned with golden accents, a modern yet traditional choice inspired by influencers for Indian weddings. Complete the outfit with Jodhpuri juttis, a silk safa (turban), and a stylish pocket square, projecting timeless elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Elegant pastel-colored anarkali suit with intricate threadwork,footwear:Embroidered juttis,accessories:Polki earrings,response:Opt for an elegant and feminine look with a pastel-colored anarkali suit featuring intricate threadwork, a favorite choice among influencers for Indian wedding festivities. Complete the outfit with embroidered juttis and exquisite Polki earrings, radiating grace and traditional charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Embellished maroon kurta with churidar pants,footwear:Traditional mojris,accessories:Turban and brooch,response:Stay refined and traditional with an embellished maroon kurta paired with churidar pants, a classic choice favored by influencers for Indian wedding celebrations. Complete the outfit with traditional mojris, a turban, and a stunning brooch, capturing the essence of cultural elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Gorgeous pastel saree with intricate embellishments,footwear:Embroidered stiletto heels,accessories:Kundan necklace and maang tikka,response:Elevate your Indian wedding look with a gorgeous pastel saree featuring intricate embellishments, a stylish and graceful choice embraced by influencers for traditional ceremonies. Complete the outfit with embroidered stiletto heels and exquisite Kundan necklace and maang tikka, exuding bridal charm and elegance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Classic cream sherwani with gold detailing,footwear:Traditional mojris,accessories:Pearl mala and safa,response:Opt for a classic and timeless look with a cream sherwani featuring gold detailing, a traditional choice inspired by influencers for Indian wedding festivities. Complete the outfit with traditional mojris, a pearl mala (necklace), and a safa (turban), projecting cultural heritage and elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Intricately embroidered bridal lehenga in deep maroon and gold,footwear:Embellished stiletto heels,accessories:Polki choker set,response:Channel the splendor of a traditional bridal look with an intricately embroidered lehenga in deep maroon and gold, a stunning and captivating choice favored by influencers for Indian weddings. Complete the outfit with embellished stiletto heels and an exquisite Polki choker set, exuding bridal grandeur and beauty."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Emerald green bandhgala suit with intricate embroidery,footwear:Jodhpuri juttis,accessories:Emerald safa and brooch,response:Make a statement with an emerald green bandhgala suit featuring intricate embroidery, a luxurious and vibrant choice embraced by influencers for Indian wedding celebrations. Complete the outfit with Jodhpuri juttis, an emerald safa (turban), and a stunning brooch, projecting elegance and cultural richness."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:indian-wedding,body-size:fit",
+            "completion": "outfit:Radiant red and gold bridal lehenga with intricate zari work,footwear:Embellished stiletto heels,accessories:Kundan choker set,response:Opt for a radiant and majestic look with a red and gold bridal lehenga featuring intricate zari work, a captivating choice among influencers for Indian wedding festivities. Complete the outfit with embellished stiletto heels and an exquisite Kundan choker set, exuding bridal charm and opulence."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Classic black tuxedo with a crisp white dress shirt,footwear:Patent leather oxford shoes,accessories:Black bow tie and cummerbund,response:Get a timeless and sophisticated look with a classic black tuxedo paired with a crisp white dress shirt, a favorite choice among influencers for western weddings. Complete the outfit with patent leather oxford shoes, a black bow tie, and a matching cummerbund, projecting elegance and charm."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Elegant lace A-line wedding gown with a sweetheart neckline,footwear:Classic white heels,accessories:Veil and pearl necklace,response:Embrace an enchanting and romantic look with an elegant lace A-line wedding gown featuring a sweetheart neckline, a dreamy choice among influencers for western weddings. Complete the outfit with classic white heels, a delicate veil, and a timeless pearl necklace, exuding grace and glamour."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Charcoal gray three-piece suit with a light blue dress shirt,footwear:Brown leather brogue shoes,accessories:Patterned silk tie,response:Achieve a modern and refined look with a charcoal gray three-piece suit paired with a light blue dress shirt, a stylish choice inspired by influencers for western weddings. Complete the outfit with brown leather brogue shoes and a patterned silk tie, projecting sophistication and elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Floor-length mermaid-cut wedding gown with intricate beadwork,footwear:Strappy metallic heels,accessories:Crystal drop earrings,response:Channel a glamorous and captivating look with a floor-length mermaid-cut wedding gown featuring intricate beadwork, a favorite choice among influencers for western weddings. Complete the outfit with strappy metallic heels and stunning crystal drop earrings, radiating elegance and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Navy blue tailored suit with a crisp white dress shirt,footwear:Black leather oxford shoes,accessories:Silver cufflinks,response:Stay refined and versatile with a navy blue tailored suit paired with a crisp white dress shirt, a timeless and elegant choice embraced by influencers for western weddings. Complete the outfit with black leather oxford shoes and elegant silver cufflinks, projecting confidence and sophistication."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Off-the-shoulder A-line wedding gown with lace details,footwear:Pearl-studded heels,accessories:Chandelier earrings,response:Opt for an elegant and romantic look with an off-the-shoulder A-line wedding gown featuring delicate lace details, a chic choice among influencers for western weddings. Complete the outfit with pearl-studded heels and stunning chandelier earrings, exuding grace and charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Light gray tailored suit with a pastel pink dress shirt,footwear:Brown leather monk strap shoes,accessories:Stylish pocket square,response:Get a modern and refined look with a light gray tailored suit paired with a pastel pink dress shirt, a sophisticated choice favored by influencers for western weddings. Complete the outfit with brown leather monk strap shoes and a stylish pocket square, projecting confidence and elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Romantic strapless ballgown with intricate floral embroidery,footwear:Crystal-embellished high heels,accessories:Pearl necklace and bracelet,response:Elevate your wedding look with a romantic strapless ballgown featuring intricate floral embroidery, a captivating choice among influencers for western weddings. Complete the outfit with crystal-embellished high heels and a beautiful pearl necklace and bracelet, exuding grace and glamour."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Dark blue suit with a crisp white dress shirt and a burgundy silk tie,footwear:Brown leather wingtip shoes,accessories:Stylish lapel pin,response:Achieve a sophisticated and versatile look with a dark blue suit paired with a crisp white dress shirt and a burgundy silk tie, a favorite choice among influencers for western weddings. Complete the outfit with brown leather wingtip shoes and a stylish lapel pin, projecting confidence and refinement."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Elegant lace trumpet-cut wedding gown with a cathedral train,footwear:Strappy high heels,accessories:Diamond stud earrings,response:Channel an elegant and enchanting look with an elegant lace trumpet-cut wedding gown featuring a cathedral train, a favorite choice among influencers for western weddings. Complete the outfit with strappy high heels and elegant diamond stud earrings, radiating grace and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Light gray three-piece suit with a patterned dress shirt,footwear:Suede loafers,accessories:Stylish pocket square,response:Get a modern and refined look with a light gray three-piece suit paired with a patterned dress shirt, a versatile choice inspired by influencers for western weddings. Complete the outfit with suede loafers and a fashionable pocket square, projecting sophistication and elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Chic off-the-shoulder A-line wedding gown with subtle sparkle,footwear:Crystal-embellished high heels,accessories:Statement bridal headband,response:Opt for a chic and romantic look with an off-the-shoulder A-line wedding gown featuring subtle sparkle, a stylish choice among influencers for western weddings. Complete the outfit with crystal-embellished high heels and a statement bridal headband, exuding elegance and charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Classic black tuxedo with a white dress shirt and a black satin bow tie,footwear:Patent leather oxford shoes,accessories:Stylish cufflinks,response:Achieve a timeless and sophisticated look with a classic black tuxedo paired with a white dress shirt and a black satin bow tie, a favorite choice among influencers for western weddings. Complete the outfit with patent leather oxford shoes and stylish cufflinks, projecting elegance and charm."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Romantic lace sheath wedding gown with delicate beading,footwear:Crystal-embellished high heels,accessories:Pearl drop earrings,response:Channel a romantic and elegant look with a lace sheath wedding gown featuring delicate beading, a captivating choice among influencers for western weddings. Complete the outfit with crystal-embellished high heels and stunning pearl drop earrings, radiating grace and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Dark gray tailored suit with a light blue dress shirt,footwear:Brown leather double monk strap shoes,accessories:Stylish pocket square,response:Stay refined and versatile with a dark gray tailored suit paired with a light blue dress shirt, a modern and elegant choice inspired by influencers for western weddings. Complete the outfit with brown leather double monk strap shoes and a stylish pocket square, projecting confidence and sophistication."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Romantic off-the-shoulder ballgown with delicate lace details,footwear:Crystal-embellished high heels,accessories:Statement bridal necklace,response:Embrace a romantic and enchanting look with an off-the-shoulder ballgown featuring delicate lace details, a stylish choice among influencers for western weddings. Complete the outfit with crystal-embellished high heels and a statement bridal necklace, exuding grace and glamour."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:wedding,style:western",
+            "completion": "outfit:Classic navy blue suit with a crisp white dress shirt,footwear:Black leather oxford shoes,accessories:Stylish pocket square,response:Get a timeless and refined look with a classic navy blue suit paired with a crisp white dress shirt, a favorite choice among influencers for western weddings. Complete the outfit with black leather oxford shoes and a stylish pocket square, projecting confidence and elegance."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:wedding,style:western",
+            "completion": "outfit:Elegant strapless A-line wedding gown with intricate lace appliqués,footwear:Crystal-embellished high heels,accessories:Pearl drop earrings,response:Channel an elegant and enchanting look with an elegant strapless A-line wedding gown featuring intricate lace appliqués, a favorite choice among influencers for western weddings. Complete the outfit with crystal-embellished high heels and stunning pearl drop earrings, radiating grace and allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful tie-dye T-shirt,white shorts,footwear:Colorful sneakers,accessories:Sun hat and colorful sunglasses,response:Celebrate Holi with a playful and vibrant look featuring a colorful tie-dye T-shirt paired with comfortable white shorts, a favorite choice among influencers for the festive occasion. Complete the outfit with colorful sneakers, a sun hat, and stylish colorful sunglasses, capturing the spirit of Holi in a lively and fun ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Flowy white kurta with colorful floral embroidery,denim shorts,footwear:Colorful sandals,accessories:Colorful bangles,response:Embrace the festive spirit of Holi with a beautiful flowy white kurta featuring colorful floral embroidery, a chic and comfortable choice favored by influencers for the celebration. Complete the outfit with denim shorts, colorful sandals, and vibrant bangles, radiating joy and elegance for the colorful occasion."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Graphic print T-shirt with bright colored joggers,footwear:Comfortable slip-on sneakers,accessories:Colorful wristbands,response:Stay energetic and stylish for Holi with a graphic print T-shirt paired with bright colored joggers, a trendy and lively choice inspired by influencers for the festive occasion. Complete the outfit with comfortable slip-on sneakers and colorful wristbands, creating a cool and comfortable Holi ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful tie-dye maxi dress,footwear:Comfortable sandals,accessories:Colorful headband and floral earrings,response:Celebrate Holi in a fashionable and colorful way with a tie-dye maxi dress, a popular and vibrant choice embraced by influencers for the festive celebration. Complete the outfit with comfortable sandals, a colorful headband, and floral earrings, exuding style and joy for the colorful occasion."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Bright colored short-sleeve button-down shirt,white denim jeans,footwear:Casual canvas sneakers,accessories:Colorful wristwatch,response:Capture the festive essence of Holi with a bright colored short-sleeve button-down shirt paired with white denim jeans, a cheerful and modern choice among influencers for the celebration. Complete the outfit with casual canvas sneakers and a colorful wristwatch, projecting a vibrant and stylish look for Holi."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful bohemian-inspired top with denim shorts,footwear:Colorful sandals,accessories:Colorful beaded bracelets,response:Channel a bohemian and joyful look for Holi with a colorful bohemian-inspired top paired with denim shorts, a stylish and free-spirited choice embraced by influencers for the festive occasion. Complete the outfit with colorful sandals and vibrant beaded bracelets, radiating a carefree and vibrant vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful geometric print polo shirt,white chino shorts,footwear:Casual slip-on espadrilles,accessories:Colorful woven belt,response:Stay stylish and vibrant for Holi with a colorful geometric print polo shirt paired with white chino shorts, a modern and lively choice favored by influencers for the festive celebration. Complete the outfit with casual slip-on espadrilles and a colorful woven belt, projecting a fresh and spirited Holi look."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Flowy tie-dye midi skirt with a white tank top,footwear:Colorful flip-flops,accessories:Colorful headscarf and hoop earrings,response:Embrace the beauty of Holi with a flowy tie-dye midi skirt paired with a white tank top, a graceful and colorful choice embraced by influencers for the festive celebration. Complete the outfit with colorful flip-flops, a vibrant headscarf, and stylish hoop earrings, radiating elegance and joy for the festive occasion."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful graphic print hoodie,black joggers,footwear:Comfortable sneakers,accessories:Colorful beanie and sunglasses,response:Stay comfortable and stylish for Holi with a colorful graphic print hoodie paired with black joggers, a trendy and relaxed choice inspired by influencers for the festive celebration. Complete the outfit with comfortable sneakers, a colorful beanie, and stylish sunglasses, creating a cool and laid-back Holi ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful tie-dye crop top with high-waisted denim shorts,footwear:Colorful sneakers,accessories:Colorful hair ties,response:Celebrate Holi with a playful and vibrant look featuring a colorful tie-dye crop top paired with high-waisted denim shorts, a popular choice among influencers for the festive occasion. Complete the outfit with colorful sneakers and fun colorful hair ties, capturing the spirit of Holi in a lively and joyful ensemble."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Bright colored short-sleeve shirt with khaki shorts,footwear:Comfortable slip-on shoes,accessories:Colorful wristbands,response:Stay energetic and stylish for Holi with a bright colored short-sleeve shirt paired with khaki shorts, a cheerful and modern choice favored by influencers for the festive celebration. Complete the outfit with comfortable slip-on shoes and colorful wristbands, creating a cool and comfortable Holi ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Vibrant tie-dye romper,footwear:Colorful flip-flops,accessories:Colorful beaded anklets,response:Channel a carefree and vibrant look for Holi with a vibrant tie-dye romper, a stylish and easygoing choice embraced by influencers for the festive occasion. Complete the outfit with colorful flip-flops and playful colorful beaded anklets, radiating a joyful and relaxed vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful floral print short-sleeve shirt with white denim jeans,footwear:Casual sneakers,accessories:Colorful woven bracelet,response:Capture the festive essence of Holi with a colorful floral print short-sleeve shirt paired with white denim jeans, a lively and modern choice among influencers for the celebration. Complete the outfit with casual sneakers and a colorful woven bracelet, projecting a vibrant and stylish look for Holi."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful bohemian-inspired dress,footwear:Colorful sandals,accessories:Colorful beaded necklace and hoop earrings,response:Channel a bohemian and joyful look for Holi with a colorful bohemian-inspired dress, a stylish and free-spirited choice embraced by influencers for the festive occasion. Complete the outfit with colorful sandals and vibrant beaded necklace and hoop earrings, radiating a carefree and vibrant vibe."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful geometric print T-shirt with casual jeans,footwear:Casual canvas sneakers,accessories:Colorful wristbands,response:Stay stylish and vibrant for Holi with a colorful geometric print T-shirt paired with comfortable jeans, a trendy and lively choice inspired by influencers for the festive celebration. Complete the outfit with casual canvas sneakers and colorful wristbands, creating a cool and comfortable Holi ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful tie-dye maxi skirt with a white tank top,footwear:Colorful flip-flops,accessories:Colorful headscarf and hoop earrings,response:Embrace the beauty of Holi with a colorful tie-dye maxi skirt paired with a white tank top, a graceful and colorful choice embraced by influencers for the festive celebration. Complete the outfit with colorful flip-flops, a vibrant headscarf, and stylish hoop earrings, radiating elegance and joy for the festive occasion."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful graphic print hoodie,black joggers,footwear:Comfortable sneakers,accessories:Colorful beanie and sunglasses,response:Stay comfortable and stylish for Holi with a colorful graphic print hoodie paired with black joggers, a trendy and relaxed choice inspired by influencers for the festive celebration. Complete the outfit with comfortable sneakers, a colorful beanie, and stylish sunglasses, creating a cool and laid-back Holi ensemble."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,body-size:fit",
+            "completion": "outfit:Colorful tie-dye crop top with high-waisted denim shorts,footwear:Colorful sneakers,accessories:Colorful hair ties,response:Celebrate Holi with a playful and vibrant look featuring a colorful tie-dye crop top paired with high-waisted denim shorts, a popular choice among influencers for the festive occasion. Complete the outfit with colorful sneakers and fun colorful hair ties, capturing the spirit of Holi in a lively and joyful ensemble."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:White kurta with colorful splatter prints,footwear:Traditional mojari shoes,accessories:Colorful headband,response:Celebrate the spirit of Holi with a white kurta featuring vibrant splatter prints, a festive and comfortable choice for the occasion. Complete the outfit with traditional mojari shoes and a colorful headband, embracing the joy and vibrancy of the festival."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Bright colored salwar kameez with floral embroidery,footwear:Colorful juttis,accessories:Statement jhumkas,response:Dazzle in a bright and colorful salwar kameez adorned with floral embroidery, a popular choice among young women for Holi celebrations. Complete the outfit with colorful juttis and statement jhumkas, exuding traditional elegance and festive charm."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:Colorful printed kurta paired with white dhoti pants,footwear:Traditional mojari shoes,accessories:Colorful scarf,response:Stay vibrant and stylish with a colorful printed kurta paired with white dhoti pants, a trendy and comfortable choice for Holi festivities. Complete the outfit with traditional mojari shoes and a colorful scarf, capturing the festive spirit of the occasion."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Traditional lehenga choli in bright hues,footwear:Embroidered juttis,accessories:Colorful bangles,response:Embrace the traditional charm of Holi with a vibrant lehenga choli in bright hues, a favorite choice among young women for the festival. Complete the outfit with embroidered juttis and colorful bangles, adding a touch of festive elegance."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:Colorful bandhani-print kurta with white churidar,footwear:Traditional mojari shoes,accessories:Turban in bright colors,response:Celebrate Holi with a colorful bandhani-print kurta paired with white churidar, a traditional and vibrant choice for the festival. Complete the outfit with traditional mojari shoes and a turban in bright colors, embracing the festive spirit with flair."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Bright saree with tie-dye or bandhani pattern,footwear:Colorful kolhapuri sandals,accessories:Statement bindi,response:Dazzle in a bright saree featuring tie-dye or bandhani patterns, a popular and elegant choice for Holi celebrations. Complete the outfit with colorful kolhapuri sandals and a statement bindi, adding a touch of traditional allure to the festive look."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:Colorful printed kurta with jeans,footwear:Traditional mojari shoes,accessories:Colorful dupatta,response:Stay comfortable and stylish with a colorful printed kurta paired with jeans, a modern and festive choice for Holi festivities. Complete the outfit with traditional mojari shoes and a colorful dupatta, capturing the vibrant spirit of the festival."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Ethnic ghagra choli in bright colors,footwear:Colorful juttis,accessories:Colorful bangles,response:Celebrate the festive charm of Holi with an ethnic ghagra choli in bright colors, a delightful choice for young women during the festival. Complete the outfit with colorful juttis and vibrant bangles, exuding traditional elegance and joyful vibrancy."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:Colorful pathani suit with a festive turban,footwear:Traditional mojari shoes,accessories:Colorful stole,response:Dress in a colorful pathani suit paired with a festive turban, a traditional and charismatic choice for celebrating Holi. Complete the outfit with traditional mojari shoes and a colorful stole, embracing the festive spirit with cultural pride."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Colorful anarkali suit with intricate embroidery,footwear:Colorful juttis,accessories:Statement jhumkas,response:Dazzle in a colorful anarkali suit adorned with intricate embroidery, a popular and elegant choice for young women during Holi celebrations. Complete the outfit with colorful juttis and statement jhumkas, adding a touch of traditional charm and festive allure."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:White kurta with vibrant tie-dye patterns,footwear:Traditional mojari shoes,accessories:Colorful headband,response:Celebrate the joy of Holi with a white kurta featuring vibrant tie-dye patterns, a comfortable and festive choice for the occasion. Complete the outfit with traditional mojari shoes and a colorful headband, embracing the spirit of unity and vibrancy."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Colorful palazzo suit with mirror work,footwear:Embroidered juttis,accessories:Colorful bangles,response:Embrace the vivacity of Holi with a colorful palazzo suit adorned with mirror work, a trendy and festive choice for young women during the festival. Complete the outfit with embroidered juttis and vibrant bangles, adding a touch of traditional elegance and joy."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:Vibrant kurta with a festive Nehru jacket,footwear:Traditional mojari shoes,accessories:Colorful scarf,response:Stay stylish and festive with a vibrant kurta paired with a festive Nehru jacket, a charismatic choice for Holi festivities. Complete the outfit with traditional mojari shoes and a colorful scarf, capturing the cultural richness and joy of the festival."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Traditional saree in vibrant hues,footwear:Colorful kolhapuri sandals,accessories:Statement bindi,response:Dazzle in a traditional saree featuring vibrant hues, a classic and elegant choice for celebrating Holi. Complete the outfit with colorful kolhapuri sandals and a statement bindi, exuding traditional charm and festive grace."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:Colorful printed kurta with churidar,footwear:Traditional mojari shoes,accessories:Colorful turban,response:Celebrate Holi with a colorful printed kurta paired with churidar, a traditional and vibrant choice for the festival. Complete the outfit with traditional mojari shoes and a colorful turban, embracing the festive spirit with cultural flair."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Bright sharara set with intricate embroidery,footwear:Colorful juttis,accessories:Colorful bangles,response:Embrace the festive vibes of Holi with a bright sharara set adorned with intricate embroidery, a fashionable and joyful choice for young women during the festival. Complete the outfit with colorful juttis and vibrant bangles, adding a touch of traditional elegance and celebration."
+        },
+        {
+            "prompt": "age-group:millennials,gender:male,occasion:holi,style:indian",
+            "completion": "outfit:Colorful bandhani-print kurta with white pajama,footwear:Traditional mojari shoes,accessories:Colorful headband,response:Dress in a colorful bandhani-print kurta paired with white pajama, a traditional and festive choice for celebrating Holi. Complete the outfit with traditional mojari shoes and a colorful headband, capturing the vibrancy and spirit of the festival."
+        },
+        {
+            "prompt": "age-group:genz,gender:female,occasion:holi,style:indian",
+            "completion": "outfit:Vibrant anarkali suit with mirror work,footwear:Colorful juttis,accessories:Statement jhumkas,response:Dazzle in a vibrant anarkali suit adorned with mirror work, a popular and elegant choice for young women during Holi celebrations. Complete the outfit with colorful juttis and statement jhumkas, adding a touch of traditional charm and festive allure."
+        }
+    ]
+}
