@@ -31,7 +31,7 @@ Selecting outfits for events has been a forever tedious task for all and this ai
 
 - CPU: Any new gen chip with +1.2GHz
 - GPU: N/A
-- RAM: +8GB
+- RAM: 8GB+
 
 I will be explaining how to run on colab + local system:
 
