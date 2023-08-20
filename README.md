@@ -2,7 +2,7 @@
 
 Welcome to FlipFashion! I can bet that you've face a problem when it comes to choosing your outfit. Our project combines AI innovation with fashion to provide personalized outfit suggestions with up to date fashion trends and generate stunning outfit images making your job as easy as asking your mom!
 
-![Alt text](Untitled.jpg)
+![Alt text](images/Untitled.jpg)
 
 ## Team Members
 
@@ -40,8 +40,8 @@ I will be explaining how to run on colab + local system:
 - Run the frontend using:
 ```npm start```
 - Run the backend DeepLearning models on the colab notebook, simply run all the cells. Ensure you add your hugging face authtoken and ngrok auth token as we will need it to make the server public and we can use them through our local frontend. Ensure you are connected to a GPU based runtime.
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Alt text](images/image.png)
+![Alt text](images/image-1.png)
 
 - After all the cells are up and running you will get a ngrok link which will look something like this:
 ```http://61b0-35-238-99-204.ngrok-free.app```
