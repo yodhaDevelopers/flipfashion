@@ -47,7 +47,7 @@ I will be explaining how to run on colab + local system:
 ```http://61b0-35-238-99-204.ngrok-free.app```
   copy this and change the the links in bot.js and change the links to ```[your ngrok generated link]/get_image``` and ```[your ngrok generated url]/get_falcon_response```
 
-- You also need to run server for rasa, you can do that by simply doing cd into rasa_fashion_model and running the command ```rasa run --enable-api -m rasa run --enable-api -m 20230820-145032-crabby-quiver.tar.gz ```
+- You also need to run server for rasa, you can do that by simply doing cd into rasa_fashion_model and running the command ```rasa run --enable-api -m rasa run --enable-api -m 20230820-145032-crabby-quiver.tar.gz ``` [Link to download](https://drive.google.com/drive/folders/1eVAqdhGDZ1qTtLq2J32vB_hLMnbWWMt8?usp=sharing)
 
 - Now run the two flask server for starting Dialo GPT and rasa so interact with it ```python rasa.py``` && ```python chat.py``` after running it you can simply start using the efficient model of flipsmart. 
 
