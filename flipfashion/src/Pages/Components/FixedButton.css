@@ -1,0 +1,15 @@
+.fixed-button-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.fixed-button {
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.fixed-button img {
+    height: 80px;
+    width: 80px;
+}
